@@ -1,0 +1,823 @@
+﻿Query ID,Timestamp (UTC),Mode,User Query,Response Length,Response Time (ms),Status,Error Code
+859d432d-62b0-4d83-8c1d-4bf2b160a813,22-09-2025 11:05,PDF Q&A, Why do you want to work in customer service?,604,1231,Success,
+f7146c33-c3a3-47a3-a73d-b38273c884b0,22-09-2025 11:05,PDF Q&A,What does excellent customer service mean to you?,606,707,Success,
+56815eb4-ab7f-4acf-a118-7bd27d6ea4b7,22-09-2025 11:05,PDF Q&A,How would you handle an angry customer?,401,1022,Success,
+33351459-91c3-4aca-ae01-eb7ca47f3e32,22-09-2025 11:06,PDF Q&A, Can you tell me about a time when you went above and beyond for  someone?,381,481,Success,
+aa1df0ff-724a-4fd2-9355-26ef4db7a8a9,22-09-2025 11:06,PDF Q&A,How do you stay motivated in a fast-paced environment?,278,1990,Success,
+ca4ea4f4-839e-4f02-9896-3766f6835b73,22-09-2025 11:06,PDF Q&A, What would you do if you didn't know the answer to a customer's question?,500,2046,Success,
+81265371-16a2-4bb1-816d-e03bffc2c6aa,22-09-2025 11:06,PDF Q&A, How do you handle stress and pressure?,336,1973,Success,
+e9144fcd-1846-41bf-bc71-9bef489407eb,22-09-2025 11:06,PDF Q&A,Can you describe a situation where you had to say no to a customer's  request?,531,1170,Success,
+e93ad265-5c62-4cd7-86fc-2f0a1ab2bcdf,22-09-2025 11:07,PDF Q&A, How would you handle a situation where a customer is wrong?,610,606,Success,
+1fddab74-931d-429a-8049-135d4ed838a3,22-09-2025 11:07,PDF Q&A, What experience do you have with CRM software?,354,1830,Success,
+c237b320-9487-4980-80ff-d8ef557a82d7,22-09-2025 11:07,PDF Q&A, How do you prioritize tasks when dealing with multiple customers?,506,1197,Success,
+74a7ab75-2a19-48e3-af12-6ca24ec44558,22-09-2025 11:07,PDF Q&A, Can you give an example of how you've turned a negative experience into  a positive one?,1012,1814,Success,
+e7c3a3b9-9ea8-48dc-bb83-c7467b815204,22-09-2025 11:07,PDF Q&A,How do you stay updated on company products and policies?,353,1829,Success,
+696ed02a-6c00-4c15-8b70-32da6e050297,22-09-2025 11:07,PDF Q&A,What would you do if a customer asked for a refund that was against  company policy?,387,1064,Success,
+7c8a570f-b4fb-4dbb-a7ed-45fe43617d38,22-09-2025 11:08,PDF Q&A, How do you handle constructive criticism?,351,1523,Success,
+0c44894f-a2c7-42ff-867d-8a6d273001d1,22-09-2025 11:08,PDF Q&A,How would you handle a situation where you made a mistake that affected  a customer?,376,1071,Success,
+00341072-6756-47f0-93e4-e60aac991d8c,22-09-2025 11:08,PDF Q&A,What strategies would you use to build rapport with customers?,978,684,Success,
+524fc2cd-9b4e-4e45-ab04-c87209eb5170,22-09-2025 11:08,PDF Q&A,How would you handle a situation where a customer's request is  unreasonable?,881,1757,Success,
+525559af-3e18-4f65-a9a9-8db6258a7256,22-09-2025 11:09,PDF Q&A,Can you describe your ideal work environment?,417,1742,Success,
+8eb7e95c-a7da-4a7e-ad70-254d0e30b684,22-09-2025 11:09,PDF Q&A,Where do you see yourself in five years?,518,898,Success,
+3d536fba-ad37-4735-bb01-afd986d73351,22-09-2025 11:09,PDF Q&A,How do you stay organized when working remotely?,1594,782,Success,
+2815c195-debb-416e-ac7f-e0680e560587,22-09-2025 11:09,PDF Q&A,What strategies do you use to maintain work-life balance in a home office  setting?,457,1402,Success,
+afd66a99-5b91-4f9a-b4ad-28ab5301ee1f,22-09-2025 11:09,PDF Q&A,How do you handle technical difficulties when working remotely?,485,1966,Success,
+44b167c1-0627-45f6-b1c8-1d9ea439c423,22-09-2025 11:10,PDF Q&A,What experience do you have with virtual communication tools?,407,493,Success,
+593dacbe-4a3f-40f8-a1e6-89d01f4e10f3,22-09-2025 11:10,PDF Q&A,How do you stay motivated without in-person supervision?,469,1487,Success,
+0be3dea4-7806-4904-a937-1d2682cb9514,22-09-2025 11:10,PDF Q&A,Can you describe your ideal home office setup?,527,553,Success,
+0e7c5180-aa4d-4c0f-bacc-79e43bd03484,22-09-2025 11:10,PDF Q&A, How do you manage your time effectively when working remotely?,923,1618,Success,
+26abc833-1381-4501-98a4-96c01d75d901,22-09-2025 11:10,PDF Q&A,What strategies would you use to build relationships with remote team  members?,731,631,Success,
+c76ef170-5414-4ffe-9acc-63dfbe89b301,22-09-2025 11:10,PDF Q&A,How do you handle distractions in a home environment?,500,682,Success,
+ffda5617-3fa0-4cf7-a6b8-c0fe67fff366,22-09-2025 11:11,PDF Q&A, What's your approach to self-directed learning in a remote setting?,537,601,Success,
+3a5d9a3e-79cb-4530-9f7f-4e2d590f1261,22-09-2025 11:11,PDF Q&A,How do you ensure clear communication when you can't meet  face-to-face?,571,1207,Success,
+cba9825f-110f-41fa-aa84-28842f753cbf,22-09-2025 11:11,PDF Q&A,What's your experience with async communication methods?,419,1590,Success,
+ac9b3363-8214-4500-89bc-eddea8cde1f9,22-09-2025 11:11,PDF Q&A, How do you stay connected with company culture in a remote role?,593,535,Success,
+138c57ab-7de3-402c-9c57-faaf82599a08,22-09-2025 11:11,PDF Q&A,Can you describe a challenge you've faced working remotely and how you  overcame it?,557,2169,Success,
+bf3bdb88-5bce-4184-8ea5-6fe585dd8b56,22-09-2025 11:12,PDF Q&A,How do you maintain a professional demeanor during video calls?,569,1546,Success,
+37402613-2a0e-4ae3-9370-21a95114e95d,22-09-2025 11:12,PDF Q&A, What strategies do you use to avoid burnout when working from home?,1378,3060,Success,
+9a0cc31e-b702-4b0e-8988-b58c453507fb,22-09-2025 11:12,PDF Q&A,How do you handle confidentiality and data security in a remote work  environment?,1399,2372,Success,
+4b177bc8-2e06-4163-9ea3-efae1f53db8d,22-09-2025 11:12,PDF Q&A,Can you describe your experience with remote customer service tools or  software?,2148,1167,Success,
+d60adb9a-f6ab-46e8-b434-a1c6b22ba7c7,22-09-2025 11:13,PDF Q&A, How do you stay updated on company news and updates when working  remotely?,536,558,Success,
+963c0c1d-ae80-40b0-819a-fe61dfbe9da9,22-09-2025 11:13,PDF Q&A, What's your approach to seeking help or clarification when you can't walk  over to a colleague's desk?,827,3186,Success,
+82dfcd81-16e3-47a4-bc81-afc9856697cd,22-09-2025 11:15,Solve Math Problem,What is  456 + 789 456+789?,879,968,Success,
+23625c71-23b5-45d3-baaa-cc97666632ff,22-09-2025 11:15,Solve Math Problem,Subtract  2345 âˆ’ 678 2345âˆ’678.,1211,1133,Success,
+7e8e4247-bbc4-48d1-a9c7-d8c6459ee4d4,22-09-2025 11:16,Solve Math Problem,Multiply  123 Ã— 456 123Ã—456.,741,695,Success,
+8ec0b02b-243f-4f9a-8d1e-5707ca731b8b,22-09-2025 11:16,Solve Math Problem,Divide  98765 Ã· 123 98765Ã·123.,772,773,Success,
+55073ba7-f0fc-42ea-8b41-b807ce148d0c,22-09-2025 11:16,Solve Math Problem,Find the remainder when  1001 1001 is divided by  17 17.,3026,2106,Success,
+45f5976b-b900-48d9-a42e-0f7e2d3a9a1d,22-09-2025 11:17,Solve Math Problem,What is the least common multiple (LCM) of 18 and 24?,1067,930,Success,
+846b89af-167d-44bc-9a38-e49925e18b44,22-09-2025 11:17,Solve Math Problem,What is the greatest common divisor (GCD) of 56 and 98?,902,628,Success,
+ca8586ec-a86a-4bcc-bcae-1900462321cb,22-09-2025 11:17,Solve Math Problem,Express 0.375 as a fraction.,1192,799,Success,
+2a5427c9-04f6-4814-a719-bdd8fb02e411,22-09-2025 11:17,Solve Math Problem,"Convert  7 8 8 7 	â€‹   into a decimal.",502,546,Success,
+8654ac6b-9f40-46f6-88a4-7141303fbfff,22-09-2025 11:17,Solve Math Problem,Find the square of 121.,389,716,Success,
+b1b4570d-01a0-43df-8928-240e5e55ad17,22-09-2025 11:17,Solve Math Problem,Find the cube of 15.,464,498,Success,
+f12a397f-4697-4dee-bebd-2f7174981521,22-09-2025 11:18,Solve Math Problem,"What is  625 625 	â€‹  ?",702,761,Success,
+f8f060a9-89ce-413f-a75b-148d58e371f6,22-09-2025 11:18,Solve Math Problem,Write the first 10 prime numbers.,816,707,Success,
+2d0a3fe2-abb3-439b-bb88-a941d93a6d64,22-09-2025 11:18,Solve Math Problem,Solve  2 ð‘¥ + 5 = 15 2x+5=15,946,790,Success,
+0c6a3ae3-491a-41e6-8c81-3c7ad3ee73f0,22-09-2025 11:18,Solve Math Problem,Solve  3 ð‘¥ âˆ’ 7 = 11 3xâˆ’7=11.,756,786,Success,
+8002f874-aec3-4ea5-b69a-c4af8670a691,22-09-2025 11:18,Solve Math Problem,Find the perimeter of a rectangle with length 12 cm and breadth 8 cm.,568,643,Success,
+b87c5dc4-a9b5-4472-8395-8cc2dce1e255,22-09-2025 11:19,Solve Math Problem,"The sides of a triangle are 3 cm, 4 cm, and 5 cm. Is it a right-angled triangle?",1178,761,Success,
+c790ba6a-2ea0-4a81-ab4f-7119a4e8d1a8,22-09-2025 11:19,Solve Math Problem,Find the third angle of a triangle if the other two are 65Â° and 75Â°.,842,670,Success,
+abb48eae-a57e-4476-9b96-e603ac4191fa,22-09-2025 11:19,Solve Math Problem,Find the surface area of a sphere with radius 5 cm.,526,786,Success,
+ac020859-553d-4cf5-bdc2-c3b8b30f4357,22-09-2025 11:19,Solve Math Problem,Find the volume of a cube of side 5 cm.,761,746,Success,
+128e230c-3097-442a-b240-66543424efcc,22-09-2025 11:19,Solve Math Problem,Find the area of a square of side 15 cm.,512,611,Success,
+010100a3-d36f-4eea-a6fa-d71aadd1f822,22-09-2025 11:19,Solve Math Problem,Find  sin â¡ ( 30 Â° ) sin(30Â°).,515,529,Success,
+0417dd03-e01d-41eb-a2d2-d3ac2d8be787,22-09-2025 11:20,Solve Math Problem,Find  sin â¡ ( 0 Â° ) sin(0Â°).,702,676,Success,
+0fbb2f67-dfbd-463a-8b77-9642f5039511,22-09-2025 11:20,Solve Math Problem,Differentiate  ð‘¥ 2 x 2 .,628,766,Success,
+c3863546-48ed-42c9-a881-24505b208ca1,22-09-2025 11:20,Solve Math Problem,A coin is tossed once. What is the probability of getting heads?,1360,705,Success,
+9cb4c471-91b0-4fdf-8ada-8208b7e9c614,22-09-2025 11:20,Solve Math Problem,A card is drawn from a pack of 52. Find the probability of getting a king.,1030,667,Success,
+0c6fef0f-c28a-4d8c-a95b-b34a39c20555,22-09-2025 11:21,Solve Math Problem,The average of 10 numbers is 25. Find their sum.,630,578,Success,
+08d9d96c-1cf9-4864-8199-5b3b06ed4254,22-09-2025 11:21,Solve Math Problem,"Find the median of 5, 8, 12, 20, 22.",799,608,Success,
+6f099257-4997-4df4-bacb-35484f406f3f,22-09-2025 11:21,Solve Math Problem,What is the probability of getting an even number when a dice is rolled?,1216,767,Success,
+72e10894-ddf8-4931-9129-4bd62c518b56,22-09-2025 11:21,Solve Math Problem,The perimeter of a square is 40 cm. Find the side length.,853,557,Success,
+68711673-733b-4700-a782-3d2852ff382b,22-09-2025 11:21,Solve Math Problem,A pipe fills a tank in 6 hours. Another pipe fills it in 8 hours. How long together?,1185,790,Success,
+a0545ce9-3411-433b-9f56-bb40900f45cd,22-09-2025 11:21,Solve Math Problem,A sum of â‚¹5000 earns 10% simple interest in 2 years. Find the interest.,694,585,Success,
+80b7c306-1515-4248-81a2-7bfca5e3be63,22-09-2025 11:22,Solve Math Problem,"If 5 workers can build a wall in 20 days, how many days will 10 workers take?",1175,995,Success,
+83a566ca-4310-4222-a1fe-743582049fe8,22-09-2025 11:22,Solve Math Problem,Find the derivative of  sin â¡ ( ð‘¥ ) cos â¡ ( ð‘¥ ) sin(x)cos(x).,1634,1113,Success,
+a3e79b27-9474-4b4b-83ca-2c1666a5a82c,22-09-2025 11:22,Solve Math Problem,Differentiate  ð‘’ ð‘¥ e x .,755,732,Success,
+bf767aa5-c9c8-44ef-8099-152239bf4543,22-09-2025 11:23,Solve Math Problem,Find the length of the diagonal of a rectangle with sides 9 cm and 12 cm.,1098,853,Success,
+11de1d0c-868d-484e-8c22-46737e32a1ee,22-09-2025 13:37,Research & Latest Topics,What is the impact of 5G and upcoming 6G technology?,974,182263,Success,
+3d4489bb-fd39-4920-8930-b048d4f481f2,22-09-2025 13:41,Research & Latest Topics,What are the latest discoveries in astrophysics?,817,200003,Success,
+cbff4fa6-b9fd-48f4-9de6-7c6baef1183f,22-09-2025 13:47,Research & Latest Topics,What role does AI play in scientific research?,535,88150,Success,
+9a5855b8-c5a3-4b6c-8bf3-dc7a3e6d6953,22-09-2025 13:48,Research & Latest Topics,What are the latest trends in online education?,543,52617,Success,
+a41e3fb1-bcd5-4c81-b23c-57ce8baa533b,22-09-2025 13:52,Research & Latest Topics,What are the benefits of gamified learning?,51,168701,Success,
+766deb87-bca1-4d8d-8ddd-1b9dd2a29816,22-09-2025 13:53,Research & Latest Topics,What are the latest global warming statistics?,306,29540,Success,
+aabbc452-2dd1-4f99-8f8c-df8f0ccd4faf,22-09-2025 13:53,Research & Latest Topics,Which countries are leading in solar energy adoption?,103,7301,Success,
+4b58a2b0-2154-4c5a-8f22-234814923a47,22-09-2025 13:56,Research & Latest Topics,What is the most popular streaming platform this year?,453,114719,Fail,429
+936ae256-500a-482a-a615-7784e7f9c3ad,22-09-2025 14:04,Research & Latest Topics,What is the future of electric vehicles?,322,446643,Success,
+9f9c3111-1595-4b21-a8c9-900e32c9cc3b,22-09-2025 14:04,Research & Latest Topics,Who is the top tennis player in 2025?,378,8313,Success,
+1a77f204-91a2-4d5c-a4d1-7173c9b6aa6c,22-09-2025 14:05,Research & Latest Topics,What are the top 5 tourist destinations in 2025?,460,48119,Fail,429
+a7cb1d02-2aa6-40da-b7fe-3c1ca253fea4,22-09-2025 14:07,Research & Latest Topics,Which countries are leading in solar energy adoption?,167,116860,Success,
+3c5def9e-ee2e-4c2f-affa-84cf07b82811,22-09-2025 14:17,Research & Latest Topics,What is the latest research on ocean pollution?,51,551626,Success,
+2c27094b-5d14-47f2-8ae5-0224569f28e9,22-09-2025 14:26,Research & Latest Topics,Who is the top tennis player in 2025?,48,425772,Success,
+f7a0fe99-45cf-4cb5-aabe-c13aca5675d5,22-09-2025 14:28,Research & Latest Topics,Which country has the fastest-growing economy this year?,6,75605,Success,
+6b21f140-3018-49a2-80e4-408ea2f804c5,22-09-2025 14:40,Research & Latest Topics,What is the latest research on ocean pollution?,1338,59696,Success,
+85704ecb-7156-4156-ad71-359c00047904,22-09-2025 14:45,Research & Latest Topics,What is the role of AI in banking?,459,245448,Fail,429
+bca94676-2f2f-4930-ab01-f0da45ebd23a,22-09-2025 14:51,Research & Latest Topics,What new treatments exist for diabetes?,211,20236,Success,
+c5dc6f52-851b-4c1e-b45f-a8cfd8ec7c83,22-09-2025 14:53,Research & Latest Topics,What are the most effective weight-loss methods this year?,94,94090,Success,
+d8c81156-c109-41fc-b342-569da4439760,22-09-2025 14:56,Research & Latest Topics,Which countries are part of BRICS 2025?,187,89752,Success,
+258fa3fc-fe96-42c3-a146-627aa797e09a,22-09-2025 14:57,Research & Latest Topics,Who is the current UN Secretary-General?,17,4805,Success,
+0e00fb5d-120a-4e3f-be08-e682fd49ab45,22-09-2025 14:59,Research & Latest Topics,What are the latest developments in space exploration?,301,53915,Success,
+90d54d48-16c1-484a-9755-0dab4d669091,22-09-2025 15:01,Research & Latest Topics,What are the latest G20 summit highlights?,454,93488,Fail,429
+1d8d1031-e5ea-4f63-9ca6-34cc872dafbe,22-09-2025 15:07,Research & Latest Topics,Which companies are leading in AI chip manufacturing?,192,353394,Success,
+975e4162-35b9-4376-9ac7-fdfa55a0ae19,22-09-2025 15:09,Research & Latest Topics,Which AI models are best for healthcare?,463,64183,Fail,429
+1741938c-93e1-4b4d-8f36-8832c8c91f46,22-09-2025 15:30,Research & Latest Topics,What role does AI play in scientific research?,457,7452,Fail,429
+896ae22b-970e-43bc-84e3-d2c2e85c9e09,23-09-2025 09:40,Solve Math Problem,Solve:  âˆ£ ð‘¥ âˆ’ 5 âˆ£ = 3 âˆ£xâˆ’5âˆ£=3.,844,764,Success,
+84b84aca-388c-40ba-a6c4-5c67c0c2bc36,23-09-2025 09:41,Solve Math Problem,A ladder 10 m long rests against a wall at 6 m height. Find base distance.,706,633,Success,
+b9c2c687-ecba-47e3-a59d-92b694f3a11b,23-09-2025 09:41,Solve Math Problem,"A rectangleâ€™s length is 3x, width is 2x. Find area in terms of x.",452,561,Success,
+fdc18206-c6d6-4d97-8c69-966c3b5c9abc,23-09-2025 09:41,Solve Math Problem,A man buys a book for â‚¹120 and sells at â‚¹150. Find profit %,530,552,Success,
+32f9243a-6e1e-40b5-bdb0-c1237fc9d23b,23-09-2025 09:41,Solve Math Problem,"A person walks 4 km north, then 3 km east. Find displacement",845,704,Success,
+cb0723b3-861a-4a89-945e-29a83a99266b,23-09-2025 09:41,Solve Math Problem,A tank fills at 12 liters per minute. How long to fill 240 liters?,882,656,Success,
+6d36f2e6-81aa-452e-958f-bc4db401aa10,23-09-2025 09:42,Solve Math Problem,A principal of â‚¹8000 at 5% compound interest for 2 years. Find total amount.,671,719,Success,
+1ae95932-45ea-4eae-8283-8540e0b55cac,23-09-2025 09:42,Solve Math Problem,"What is the 20th term of the AP: 7, 10, 13, â€¦?",658,577,Success,
+2902c908-6ef4-496f-9f36-30adfacd6591,23-09-2025 09:42,Solve Math Problem,Find the sum of first 50 natural numbers.,856,630,Success,
+9bfd6f4d-edc9-448b-b9b6-9566beedb06e,23-09-2025 09:42,Solve Math Problem,Is 97 a prime number?,2075,1254,Success,
+69fde23b-fb61-4ebe-99f1-f2f8845c8d08,23-09-2025 09:43,Solve Math Problem,"Convert hexadecimal ""1A"" to decimal.",791,649,Success,
+65e476f4-12dd-4f09-b959-e5c022bdd422,23-09-2025 09:43,Solve Math Problem,Convert decimal 45 to binary.,818,671,Success,
+cf0f89f6-a553-4ec4-b90c-5c1bc1585167,23-09-2025 09:43,Solve Math Problem,Convert binary 1011 to decimal.,1023,878,Success,
+3f1fd532-d113-44c5-9a1d-736e7a62933e,23-09-2025 09:43,Solve Math Problem,"If the mean of 10 numbers is 25, what is their total sum?",639,530,Success,
+e36d3f04-bc54-4602-95c8-0978a58aad73,23-09-2025 09:43,Solve Math Problem,What is the probability of rolling a 6 on a fair die?,1268,726,Success,
+37fa6d16-5a12-456d-b3ef-d11c412912d9,23-09-2025 09:44,Solve Math Problem,Find the derivative of  tan(x).,1226,839,Success,
+0dd1fc6e-0031-4c0e-a554-871a83fe9276,23-09-2025 09:44,Solve Math Problem,Differentiate:  ln(x).,611,605,Success,
+41577d6f-0635-4b38-bcb9-4d4df99b11fe,23-09-2025 09:44,Solve Math Problem,Expand  sin(A+B).,1291,882,Success,
+56fb98e3-e44b-46c0-aa3e-f25607379c2e,23-09-2025 09:45,Solve Math Problem,Evaluate:  tan â¡( 45 ) ,1088,718,Success,
+09d179b4-5ddb-4b5c-b110-e431f40ed6bc,23-09-2025 09:45,Solve Math Problem,Find the length of the diagonal of a square with side 10,1082,709,Success,
+96f89c14-c563-4abc-a87e-fb93f8b6f014,23-09-2025 09:45,Solve Math Problem,What is the sum of interior angles of a pentagon?,536,479,Success,
+3e83cbbb-05d9-480d-ab43-643da0959c99,23-09-2025 09:45,Solve Math Problem,Find the hypotenuse if the other two sides are 9 and 12.,1173,703,Success,
+8b90e4c9-7349-4a50-a503-1c93662a4a5a,23-09-2025 09:46,Solve Math Problem,What is the Pythagoras theorem?,1772,1085,Success,
+8ce11598-15c1-4b7b-9a34-81b12dd54f2d,23-09-2025 09:46,Solve Math Problem,Calculate the perimeter of a rectangle with sides 15 cm and 8 cm.,681,799,Success,
+0f8ad3fd-3d42-4455-a07c-ec513415a0ed,23-09-2025 09:46,Solve Math Problem,Find the area of a circle with radius 7.,655,577,Success,
+7608b7ad-2cbb-4394-9b07-12d215ceabeb,23-09-2025 09:46,Solve Math Problem,Find the circumference of a circle with diameter 14.,772,658,Success,
+8da77cf2-292d-4c0c-83df-493eb181bd86,23-09-2025 09:47,Solve Math Problem,"If  y=2x+3, find  ð‘¦ when  ð‘¥ = 5 ",470,531,Success,
+245ce86c-1688-45c7-9ec1-f56488187b13,23-09-2025 09:47,Solve Math Problem,Solve the inequality:  3 ð‘¥ + 2 > 11,901,593,Success,
+3bfde972-c2f9-40ce-bbe9-e1f64b821c55,23-09-2025 09:47,Solve Math Problem,Solve:  5 ð‘¥ + 2 = 3 ð‘¥ + 10 ,685,580,Success,
+d3e26d6d-a5a0-4563-9aff-0877d773054e,23-09-2025 09:48,Solve Math Problem,Simplify:  (x+3)(xâˆ’3),777,809,Success,
+62e89c64-7016-45b8-9059-e36a21d459d7,23-09-2025 09:48,Solve Math Problem,Find  x: 3xâˆ’4=17,597,629,Success,
+353153b0-830c-46cb-8eb3-3f040f7ca7c4,23-09-2025 09:49,Solve Math Problem,Convert 0.125 into a fraction.,1161,801,Success,
+8052f388-9b31-4f6f-9001-7a899dc9f571,23-09-2025 09:49,Solve Math Problem,What is the square root of 225?,965,738,Success,
+b41ec30e-6bbb-4c64-9ce0-ec32a24e7666,23-09-2025 09:49,Solve Math Problem,Find 75% of 240.,435,596,Success,
+4b119567-53cf-4231-b77a-fcae20576b20,23-09-2025 09:49,Solve Math Problem,Multiply:  36 Ã— 14,696,568,Success,
+2bfff9cd-af04-48e9-8208-fc85f35c15ae,23-09-2025 09:50,Solve Math Problem,Convert decimal 45 to binary.,781,761,Success,
+cf74e5a6-52e5-4325-b2f0-a0401c59e552,23-09-2025 09:50,Solve Math Problem,"Convert hexadecimal ""1A"" to decimal",1463,902,Success,
+d9d97f56-7982-46c0-bc97-c36c7f7dfb70,23-09-2025 09:51,Solve Math Problem,What is the probability of drawing a red card from a deck of 52?,1534,859,Success,
+b6a478d9-b63e-40c0-8bec-b0f7495e9141,23-09-2025 09:51,Solve Math Problem,What is the probability of flipping two heads in a row?,1046,678,Success,
+04088398-0440-4e3d-b17f-952e61d2a86f,23-09-2025 09:51,Solve Math Problem,What is the probability of getting 53 Sundays in a leap year?,1639,995,Success,
+a8ee3952-5af9-47e9-90cc-023f8cc033dd,23-09-2025 10:07,PDF Q&A,What is the main objective of this research paper?,326,3956,Success,
+47f0fdae-8cf9-4c70-adf3-5444bccc123d,23-09-2025 10:09,PDF Q&A,Which deep learning models were combined in this study?,143,530,Success,
+8d48dcda-8879-4a28-b8fd-739429efdc7f,23-09-2025 10:09,PDF Q&A,What problem in network traffic classification does the paper address?,884,741,Success,
+d9e2dccf-0131-47a8-ba06-a8f2512a0db3,23-09-2025 10:09,PDF Q&A,How is abnormal traffic detected in this research?,1370,847,Success,
+acd097b9-4b80-4b98-9dd5-7e3e6d11aa22,23-09-2025 10:09,PDF Q&A,What datasets were used for training and evaluation?,1042,821,Success,
+8df5cc70-ab5a-4cec-ae28-28eea7d2495d,23-09-2025 10:09,PDF Q&A,Why was Xception chosen for feature extraction?,498,732,Success,
+402e283a-2e72-4261-ac10-376cf771cd4a,23-09-2025 10:10,PDF Q&A,How is the Bidirectional GRU used in the model?,591,671,Success,
+78f7abdf-b8ae-4243-b536-2978337563c6,23-09-2025 10:10,PDF Q&A,What are the advantages of combining CNN and RNN in this approach?,2356,1165,Success,
+dd0b6ae6-cdf1-4294-9916-a45f539a96be,23-09-2025 10:10,PDF Q&A,What preprocessing steps were applied to the data?,296,585,Success,
+5b84e70c-8831-4cf4-8126-1f307ce360eb,23-09-2025 10:10,PDF Q&A,What performance metrics were used to evaluate the model?,950,735,Success,
+8bd80dba-578c-46a5-ad7f-ab87182fa06d,23-09-2025 10:11,PDF Q&A,What accuracy did the model achieve?,260,572,Success,
+db864dce-3798-483f-94fc-7f21d53f5451,23-09-2025 10:11,PDF Q&A,What was the detection rate of abnormal traffic?,674,656,Success,
+9476a37a-c478-4006-b64c-e59425377ff3,23-09-2025 10:11,PDF Q&A,What was the F1-score of the model?,75,479,Success,
+153e1f24-0f37-41b4-8594-05252cbed8b1,23-09-2025 10:11,PDF Q&A,What are the key contributions of this research?,1269,997,Success,
+5573c7d6-9486-4065-bddb-ebbcc2885977,23-09-2025 10:11,PDF Q&A,What limitations are mentioned in the paper?,1111,6929,Success,
+7b2e3803-2ea8-463f-9487-8a9dedced693,23-09-2025 10:12,PDF Q&A,How can this model help in cybersecurity?,1725,12061,Success,
+534faa4e-6606-4421-a372-37e638d21c68,23-09-2025 10:12,PDF Q&A,What are the potential applications of this research?,2071,7973,Success,
+a5d0cd30-ff18-4627-a0ff-72e1b43a65c8,23-09-2025 10:12,PDF Q&A,Could this approach be integrated into existing intrusion detection systems?,2308,16064,Success,
+d644e4fc-82db-4650-a5da-31b761f1504d,23-09-2025 10:13,PDF Q&A,How might this research affect cloud network security?,2493,13205,Success,
+c59bcdd4-fe6d-4ed6-b5e2-c2a1b74c5530,23-09-2025 10:13,PDF Q&A,What improvements could be made to enhance the modelâ€™s scalability?,2658,11288,Success,
+03018981-2589-49ac-8571-33940a6e610b,23-09-2025 10:13,PDF Q&A,What future work do the authors suggest?,439,1892,Success,
+4ad425e1-dd99-408b-8ce4-1f3492ab17cc,23-09-2025 10:14,PDF Q&A,How do traditional machine learning methods compare with deep learning here?,1644,952,Success,
+c50c46fc-3dd6-415e-bdb9-a2ef1931d3b2,23-09-2025 10:14,PDF Q&A,What dataset was used in the experiments?,173,647,Success,
+570b9487-1c27-491a-bafe-9e0ca3ba7912,23-09-2025 10:14,PDF Q&A,How many samples were included in the dataset?,555,2654,Success,
+165504d7-bc35-49f0-8bfd-1c67eeb2dd4a,23-09-2025 10:15,PDF Q&A,Were both normal and abnormal traffic samples included?,312,4604,Success,
+8256143a-c7cd-4967-9c84-3f1c00181014,23-09-2025 10:15,PDF Q&A,What input shape was used for the Xception model?,132,7974,Success,
+66a58807-c52e-46fb-92f0-a7161d8b0221,23-09-2025 10:15,PDF Q&A,What are the main strengths of the hybrid Xception+BiGRU approach?,1008,808,Success,
+49c592c8-1b93-4c62-a813-2be39ed9f8b0,23-09-2025 10:16,PDF Q&A,Can this model detect zero-day attacks?,372,613,Success,
+fd947554-8980-4e99-9ae2-17243936ffb5,23-09-2025 10:16,PDF Q&A,Did the proposed method outperform baseline models?,532,650,Success,
+a3ceefbd-857a-4f3e-b1f4-61c714bd7152,23-09-2025 10:16,PDF Q&A,How many epochs were used during training?,82,565,Success,
+e61478c3-facc-4706-85d7-e2b118461d97,23-09-2025 10:16,PDF Q&A,What hardware (CPU/GPU) was used for experiments?,150,503,Success,
+b8eebc47-26d4-4591-ae4f-3846db8191bd,23-09-2025 10:17,PDF Q&A,Did the dataset include real-world traffic or simulated data?,357,497,Success,
+0f26fb69-35f2-4a3f-b586-e1c8ced7d0a0,23-09-2025 10:17,PDF Q&A,Which previous studies used CNNs for traffic classification?,401,533,Success,
+1c438bb6-4d11-4c77-a1dc-e2c93cfda478,23-09-2025 10:18,PDF Q&A,What limitations of past research are highlighted?,923,757,Success,
+bdab0a64-2ac7-4b69-8321-82a51d59138f,23-09-2025 10:18,PDF Q&A,How was the dataset split into training and testing?,483,612,Success,
+5f298888-07d8-4bb1-b8cf-2c3ac87e6d3f,23-09-2025 10:19,PDF Q&A,Can this model classify encrypted traffic?,309,532,Success,
+07388caf-cce9-4e66-8a83-c21ed61d8c50,23-09-2025 10:19,PDF Q&A,How can ISPs use this model in real-time?,2553,1123,Success,
+6ebdfc78-3fd0-47f7-9321-c38aca493ee2,23-09-2025 10:19,PDF Q&A,How does it compare to plain RNN models?,135,442,Success,
+1f85c112-4fce-431e-bfca-7d4ff3c70487,23-09-2025 10:20,PDF Q&A,Can this model be deployed in cloud environments?,2830,1078,Success,
+ac27e6f1-da0f-4934-a2c4-9dde995a6c64,23-09-2025 10:20,PDF Q&A,What are the computational costs of running the model?,888,690,Success,
+0631a65b-8cfd-4b28-a534-9ca1eade676e,23-09-2025 10:20,PDF Q&A,What happens if the dataset grows 10x in size?,416,597,Success,
+54d8f7e0-e0c0-4ed1-ab6b-6b09b571f634,23-09-2025 10:21,PDF Q&A,How can explainable AI be integrated into this approach?,2933,1289,Success,
+f1380de0-9b23-4168-a6ef-b211485171ad,23-09-2025 10:21,PDF Q&A,What challenges remain unsolved in abnormal traffic detection?,1557,897,Success,
+ac7a1d80-74cc-4217-95b4-6ffaee352df2,23-09-2025 10:22,PDF Q&A,What are the computational costs of running the model?,1720,920,Success,
+14269d68-31f1-4228-bad5-04d8a29f865b,23-09-2025 10:22,PDF Q&A,How does the hybrid model compare to LSTM-based classifiers?,1224,865,Success,
+a912a735-a7d8-42e6-9b60-bdf1ae01609a,23-09-2025 10:22,PDF Q&A,What figures or graphs are shown to explain results?,1195,925,Success,
+1b847943-0b89-4ce4-8daf-765e017656dc,23-09-2025 10:23,PDF Q&A,What is the role of the softmax layer in classification?,1910,1032,Success,
+ca80821f-be2e-4354-a979-9a9ec9a7fc48,23-09-2025 10:23,PDF Q&A,What activation functions are used in the model?,406,544,Success,
+e4a9fd38-8387-4a43-a202-1f77f184619b,23-09-2025 10:23,PDF Q&A,What mathematical equations are presented in the paper?,177,634,Success,
+d51c1e41-ba5f-4e49-8e24-aa4ce4826dce,23-09-2025 10:39,Research & Latest Topics,What are the latest global COâ‚‚ emission trends?,123,312691,Success,
+1c87c0b2-a2cc-4319-88ed-5e47d8dbc9f0,23-09-2025 10:41,Research & Latest Topics,What are the latest advancements in AI in 2025?,454,129926,Fail,429
+91568883-484f-4d45-be97-3234199479dc,23-09-2025 10:42,Research & Latest Topics,What are the top global universities in 2025?,520,30903,Success,
+eecbe4e5-39db-4b08-98dc-6157e428a575,23-09-2025 10:44,Research & Latest Topics,What are the top-funded research fields in 2025?,454,103528,Fail,429
+96f1cd6f-99cd-45fe-9ff7-3e0307abbc63,23-09-2025 10:45,Research & Latest Topics,What are the latest UN resolutions?,453,45143,Success,
+f579c880-8d53-4cf4-a2ac-c5897506c9d7,23-09-2025 11:00,Research & Latest Topics,What are the biggest privacy risks with AI?,212,95171,Success,
+69cdae3f-3f97-46cd-9565-8e24e68c5bd6,23-09-2025 11:02,Research & Latest Topics,What are the current challenges in higher education?,569,111506,Success,
+0b268f09-5c81-4831-90cf-6e18f821e5d6,23-09-2025 11:04,Research & Latest Topics,What are the most important AI research conferences this year?,310,117076,Success,
+2a753e05-4a8b-435a-aac0-4b6da0afa5c3,23-09-2025 11:08,Research & Latest Topics,What are the most cited research papers of 2024â€“25?,460,231755,Fail,429
+6daec18b-3fdf-41a9-bc2b-57673a8da597,23-09-2025 11:10,Research & Latest Topics,What are the newest developments in 6G networks?,487,62702,Success,
+aaa2dcac-60af-43f7-aedd-9808ff814714,23-09-2025 11:12,Research & Latest Topics,How is robotics being applied in elder care?,456,103778,Fail,429
+31b46cf9-1e6d-4e63-aad6-117610b15080,23-09-2025 11:16,Research & Latest Topics,How does GPT-5 differ from GPT-4?,462,23188,Fail,429
+0b240e6b-5683-4abc-8d0e-50dcfaa01244,23-09-2025 11:36,Research & Latest Topics,What progress has been made in nuclear fusion research?,462,5297,Fail,429
+689f6c31-f851-4069-8371-b54cd7bdfcad,23-09-2025 11:47,Research & Latest Topics,What are the biggest risks to the world economy now?,457,5611,Fail,429
+9e7b382d-999b-49c5-a16b-5953b077e3dd,23-09-2025 11:48,Research & Latest Topics,What are the latest records in athletics?,457,4416,Fail,429
+da491e31-8d85-43d0-8553-000720dd01c6,23-09-2025 12:18,Research & Latest Topics,What are the latest literacy statistics worldwide?,456,5834,Fail,429
+20d2e2f7-4bec-4a69-b936-03f4aef7e462,23-09-2025 12:19,Research & Latest Topics,What breakthroughs exist in neuroscience?,461,2381,Fail,429
+eeda49e3-6be5-45be-9830-21dacfebbff1,23-09-2025 12:28,Research & Latest Topics,How is AI being used in disaster prediction?,461,5056,Fail,429
+fbde1145-df09-43a1-8c76-d40c2ed9d006,23-09-2025 12:30,Research & Latest Topics,What are the latest housing innovations?,456,60627,Fail,429
+2826ee5c-ea07-42e9-baa5-bae533f9f2b7,23-09-2025 12:30,Research & Latest Topics,What is the biggest global health challenge now?,456,94,Fail,429
+1cc584ba-e521-4b20-9aaf-b9d0cd146115,23-09-2025 12:33,Research & Latest Topics,Whatâ€™s the most recent policy update from the EU?,460,1744,Fail,429
+b55a0f07-2e39-47da-9634-2719225c260c,23-09-2025 12:37,Research & Latest Topics,What are the top-funded research fields in 2025?,462,5744,Fail,429
+2b6c0e17-26e9-432c-b7a8-f074239698c9,23-09-2025 13:06,Research & Latest Topics,How is AI being used in supply chain management?,462,7984,Fail,429
+33c9dfa6-bb5b-4bbc-8122-df34fe33ec6a,23-09-2025 13:06,Research & Latest Topics,What are the global trends in tourism this year?,462,5746,Fail,429
+59709680-573a-4501-a0ff-08583b211f20,23-09-2025 13:08,Research & Latest Topics,How is AI being used in financial fraud detection?,462,2093,Fail,429
+cb087d29-5daf-479b-992e-04195cc15127,23-09-2025 13:09,Research & Latest Topics,What are the newest cybersecurity threats?,456,2052,Fail,429
+1ab6421f-f4d2-40a0-bba5-d476751a63cf,23-09-2025 13:14,Research & Latest Topics,Who won the 2025 Cricket World Cup?,462,2436,Fail,429
+1d2b6fed-5e18-4601-b047-6db5060a6d05,23-09-2025 13:14,Research & Latest Topics,What cultural festivals are trending worldwide?,462,2156,Fail,429
+4e658aa2-3b6c-4225-9f09-c98621472c1f,23-09-2025 13:15,Research & Latest Topics,What are the biggest privacy risks with AI?,456,2402,Fail,429
+2654fcb4-b7d2-414f-bb6a-5959782e7e22,23-09-2025 13:16,Research & Latest Topics,How are scientists using machine learning in protein structure prediction?,457,46130,Fail,429
+7ab0eac2-6242-447d-bc48-5c6170ff290b,23-09-2025 13:17,Research & Latest Topics,What progress has been made in autonomous vehicle research?,456,73,Fail,429
+3515ce7f-fe3f-4b8d-a63c-b991f84bf786,23-09-2025 13:18,Research & Latest Topics,What are the current challenges in scaling quantum computing?,456,2215,Fail,429
+74d7875f-ba81-4946-a12d-c7076e00222c,23-09-2025 13:20,Research & Latest Topics,How is blockchain being applied in government services?,461,50517,Fail,429
+5850fabe-b2bf-4dc2-9c08-04b9979a1bb6,23-09-2025 13:28,Research & Latest Topics,What new findings are reported in global poverty reduction research?,462,8985,Fail,429
+3736caf4-99c7-43d4-b36f-f893e11d9448,23-09-2025 13:29,Research & Latest Topics,How is natural language processing advancing in 2025?,455,74,Fail,429
+c10840f8-9944-4718-98e7-f9e89a0d42e7,23-09-2025 13:29,Research & Latest Topics,What breakthroughs in battery technology have been published in 2025?,456,116,Fail,429
+ecbee058-a3e5-4cd9-a90e-fdcd24812209,23-09-2025 13:29,Research & Latest Topics,How are scientists using machine learning in protein structure prediction?,455,87,Fail,429
+233e733c-035d-43bf-a05b-b8fb52a84c08,23-09-2025 18:22,Research & Latest Topics,What new findings are reported in global poverty reduction research?,537,12604,Success,
+e3bd9e30-99c1-42f7-91f4-3707ad9ec7ef,23-09-2025 18:23,Research & Latest Topics,What are the latest trends in global migration studies?,826,79790,Success,
+c94655c9-1619-438d-a979-97833a1b8ba5,23-09-2025 18:24,Research & Latest Topics,How is AI being used to accelerate climate-change policy research?,581,59014,Success,
+13db1c40-28a8-463c-ad0b-1eef03d4dccb,23-09-2025 18:28,Research & Latest Topics,What is the state of global research funding in artificial intelligence?,767,185108,Success,
+8cc7ae34-29bd-4b82-b303-488180ffec97,23-09-2025 18:29,Research & Latest Topics,Whatâ€™s the most recent policy update from the EU?,141,38845,Success,
+5795e3d4-136b-4982-a09c-0993997b06d7,23-09-2025 18:30,Research & Latest Topics,What are the current geopolitical tensions in Asia?,455,49541,Fail,429
+211bcf4b-faad-45bc-afb2-f12c101ba89c,23-09-2025 18:31,Research & Latest Topics,What are the latest housing innovations?,466,64863,Success,
+256a3f8e-6995-4b1e-8063-e48620c6d198,23-09-2025 18:33,Research & Latest Topics,What technologies are expected to dominate the next decade?,791,113868,Success,
+bb067eb3-0f2a-4a8f-9737-7917bac27ce6,23-09-2025 18:37,Research & Latest Topics,How is automation affecting jobs in 2025?,457,176514,Fail,429
+10db14e1-e38c-4322-b910-cc747f999be7,23-09-2025 18:37,Research & Latest Topics,What are the top consumer tech gadgets of 2025?,457,6226,Fail,429
+8bd28ea0-e346-4d70-85e3-f7d9b185f725,24-09-2025 10:35,Solve Math Problem,Solve  2 ð‘¥ + 5 = 15,510,516,Success,
+853553cc-1dee-4b38-9a67-a9e658bcecd3,24-09-2025 10:36,Solve Math Problem,Solve  3 ð‘¥ âˆ’ 7 = 11,841,649,Success,
+26a7f57b-270b-49df-abaa-d9435993d119,24-09-2025 10:37,Solve Math Problem,If  2 ð‘¥ + 3 ð‘¦ = 12 and  ð‘¥ âˆ’ ð‘¦ = 1 find  ð‘¥ and y,952,1039,Success,
+ce1ab781-3bb4-4e9c-a18e-cc223e9a2444,24-09-2025 10:37,Solve Math Problem,"If  ð‘¦ = 2 ð‘¥ + 5 , find y when  ð‘¥ = 7",514,613,Success,
+a9b16a89-53f6-4cdb-baa9-e615121e54d9,24-09-2025 10:37,Solve Math Problem,Find  cot â¡ 90 âˆ˜,1212,988,Success,
+21de00d0-cd45-4882-8963-6e4fa643b196,24-09-2025 10:38,Solve Math Problem,"If  tan â¡ ðœƒ = 1 , find  ðœƒ .",1370,1130,Success,
+8a41c156-7db6-4272-9846-1725e22dbaee,24-09-2025 10:39,Solve Math Problem,"A man walks 4 km north, then 3 km east. Find his displacement.",974,750,Success,
+0d0e28d3-c73c-4b78-a06f-1d58b8ced087,24-09-2025 10:39,Solve Math Problem,The average of five numbers is 20. Find their sum.,670,515,Success,
+d0282d26-a890-4b67-9b36-ab9265f9e15d,24-09-2025 10:40,Solve Math Problem,A person spends 60% of his salary and saves â‚¹4000. Find his salary.,610,762,Success,
+bc7a5af2-4da2-423e-ac0d-a46c50ccbecf,24-09-2025 10:40,Solve Math Problem,The cost of 15 pens is â‚¹300. Find the cost of 1 pen.,440,504,Success,
+97ecc0b6-de7b-435e-94b2-1288b08dc235,24-09-2025 10:40,Solve Math Problem,"If 5 men can build a wall in 20 days, how many days will 10 men take to build it?",1057,670,Success,
+98a4a10d-7a3e-4e1a-8598-ce9ca182583e,24-09-2025 10:40,Solve Math Problem,Find compound interest on â‚¹10000 at 10% per annum for 2 years.,740,694,Success,
+d067bb4c-1482-4739-a0b6-c36d2aa5cc51,24-09-2025 10:41,Solve Math Problem,A shopkeeper buys an article for â‚¹800 and sells it for â‚¹1000. Find profit percentage.,709,611,Success,
+f1b1bf3e-0d80-4f69-9736-321c024a470b,24-09-2025 10:41,Solve Math Problem,A tank can be filled in 4 hours. What part is filled in 1 hour?,802,745,Success,
+ed061696-7fe2-4338-99b5-b16b20926b93,24-09-2025 10:41,Solve Math Problem,A car travels 60 km/h. How much time will it take to travel 150 km?,821,630,Success,
+3a4c4ecd-9305-4734-8f35-8bf8566974a6,24-09-2025 10:41,Solve Math Problem,What is the probability of getting a king from a deck of cards?,1445,779,Success,
+08be01c3-1771-4edb-a0d3-a9086f5ef5ad,24-09-2025 10:42,Solve Math Problem,Find the real and complex roots of  ð‘¥ 4 + 1 = 0 x 4 +1=0,1341,1078,Success,
+1c1919e3-4fa3-41bf-b587-bb363b827c6e,24-09-2025 10:42,Solve Math Problem,"A box contains 3 red, 4 blue, and 5 green balls. Two balls are drawn at random. Find the probability that both are red.",1117,689,Success,
+f8516e98-59da-44d1-9a5d-252972ec5ffd,24-09-2025 10:43,Solve Math Problem,A coin is tossed 5 times. Find the probability of getting exactly 3 heads.,1651,852,Success,
+2be5baba-708a-4cd4-8377-3e902bf08cc2,24-09-2025 10:43,Solve Math Problem,"The mean of 5 numbers is 10. Four of them are 8, 12, 6, and 14. Find the fifth number.",864,670,Success,
+cd5a6a51-1838-4434-af28-88fc8d31a29f,24-09-2025 10:43,Solve Math Problem,A card is drawn from a standard deck. Find the probability that it is a king or a heart.,1252,655,Success,
+72861756-bf8d-4f56-987b-baccfa70c3fc,24-09-2025 10:43,Solve Math Problem,"If mean = 50 and standard deviation = 5, find the z-score of  ð‘¥ = 60.",804,660,Success,
+e3f552a1-e6c2-47f5-b53b-c80391addf1d,24-09-2025 10:43,Solve Math Problem,The probability that it rains on a day is 0.6. Find the probability that it rains exactly 3 days in 5.,1200,805,Success,
+7150399d-7186-4cc1-a19d-10bfc0846077,24-09-2025 10:44,Solve Math Problem,"A tank has two pipes. Pipe A fills the tank in 6 hours, and Pipe B fills it in 8 hours. How long will both take to fill the tank together?",897,899,Success,
+f29340da-2601-4c05-a0a7-6067ebf2b876,24-09-2025 10:44,Solve Math Problem,A train 150 m long crosses a bridge 350 m long in 40 seconds. Find the speed of the train in km/h.,887,576,Success,
+086e5777-4f6d-4d3e-9a7b-e4a097a3138b,24-09-2025 10:44,Solve Math Problem,A person invested â‚¹5000 at 5% per annum compound interest. Find the amount after 3 years.,689,598,Success,
+d28eb289-79c1-46e4-9965-bcf00fd93515,24-09-2025 10:45,Solve Math Problem,"The sum of the ages of a father and son is 60 years. In 5 years, the fatherâ€™s age will be 4 times the sonâ€™s age. Find their present ages.",1715,981,Success,
+69fb5ffc-c16b-4ea3-aa6f-7c50ad504b0e,24-09-2025 10:45,Solve Math Problem,A man sells two articles for â‚¹500 each. On one he gains 25% and on the other he loses 25%. Find the overall gain or loss percentage.,2037,1283,Success,
+a652ee33-cdb0-4904-8e3c-b52de5db884a,24-09-2025 10:46,Solve Math Problem,"Verify whether the vectors  (1,2,3),  ( 2 , 4 , 6 ) , and  ( 3 , 6 , 9 ) are linearly independent.",2073,1312,Success,
+a2ad59d8-7811-400d-af9d-d5a510380b29,24-09-2025 10:47,Solve Math Problem,"Find the sum of the first 50 terms of the arithmetic progression:  3 , 7 , 11 ,..",1426,855,Success,
+5aebd4d2-95c5-4b2e-b078-8a874bf09254,24-09-2025 10:47,Solve Math Problem,A man borrows â‚¹5000 at compound interest 10% per annum. Find the amount after 2 years.,1488,903,Success,
+f86f79d2-cf11-4b77-a829-4df346cefe78,24-09-2025 10:47,Solve Math Problem,"The ages of A and B are in the ratio 4:5. After 5 years, their ages will be in the ratio 5:6. Find their present ages",1196,764,Success,
+974b7d1a-6369-4359-b942-db8e3718b559,24-09-2025 10:48,Solve Math Problem,The simple interest on a sum at 6% per annum for 5 years is â‚¹1200. Find the principal.,684,740,Success,
+cc2f9a5d-da98-4c0d-ad5a-de82b47cbb1e,24-09-2025 10:48,Solve Math Problem,A boat goes 12 km downstream in 3 hours and returns in 4 hours. Find the speed of the boat in still water.,1426,820,Success,
+91215c2d-ba67-429b-8e45-d2603197c7b6,24-09-2025 10:48,Solve Math Problem,"Find the variance of numbers: 2, 4, 6, 8, 10.",1052,672,Success,
+90d0d9aa-fa45-4870-a135-0fa27f95c6cb,24-09-2025 10:49,Solve Math Problem,A die is rolled twice. Find the probability that the sum is 8,1402,800,Success,
+6c074411-5a6c-4928-98d1-e6d792cfd533,24-09-2025 10:53,Solve Math Problem,Prove that there are infinitely many primes. (Give Euclidâ€™s classical proof.),1876,936,Success,
+f574381c-79db-4c39-9aa6-a9bd60cdedae,24-09-2025 10:53,Solve Math Problem,Count the number of onto (surjective) functions from a set of size 5 to a set of size 3.,4376,2381,Success,
+5f4a5fde-1ccd-4a61-b757-53194433d8ff,24-09-2025 10:54,Solve Math Problem,Solve for real  x:  cosh â¡ ð‘¥ = 2,1881,1212,Success,
+8f011655-0a15-468e-a5de-ff65c2b5f14c,24-09-2025 10:55,Solve Math Problem,"Compute the determinant of the  4 Ã— 4 matrix with entries  ð‘Ž ð‘– ð‘— = ð‘– + ð‘— âˆ’ 1  (i.e., a Hankel matrix with first row [1,2,3,4]).",1248,825,Success,
+9e494baa-f142-4842-ae0e-23107683fe47,24-09-2025 10:55,Solve Math Problem,How many ways can 10 distinct objects be arranged in a circle (rotations considered identical)?,1241,1851,Success,
+80110f45-e3a1-49a2-9f4e-d55c2cbe3d34,24-09-2025 11:03,PDF Q&A,How many ways can 10 distinct objects be arranged in a circle (rotations considered identical)?,16,1,Fail,400
+0b7d7ffa-8d2c-4bbc-adaa-974cc60ba4d6,24-09-2025 11:03,PDF Q&A,What is the purpose of the Hospital Price Transparency (HPT) requirements?,16,0,Fail,400
+cf8982a9-8a37-4fe8-8b31-4ea5c1edfec8,24-09-2025 11:04,PDF Q&A,What is the purpose of the Hospital Price Transparency (HPT) requirements?,1029,20725,Success,
+a8398215-80c2-4565-8344-f6f38b69c60a,24-09-2025 11:04,PDF Q&A,What legal authority does CMS have to enforce these rules?,485,657,Success,
+bc77a7b0-4315-4071-baa6-c79ebca86129,24-09-2025 11:04,PDF Q&A,When did the HPT requirements first take effect?,174,542,Success,
+72f43b4b-dd11-476d-9500-2d369baf4adf,24-09-2025 11:05,PDF Q&A,Are critical access hospitals required to comply?,304,562,Success,
+db841b87-c27f-47ae-90c5-58c7d20f0388,24-09-2025 11:05,PDF Q&A,Are government-owned hospitals subject to HPT?,407,516,Success,
+2bb3274c-16e1-4420-b6e6-c0f2f1e5da4b,24-09-2025 11:05,PDF Q&A,Do psychiatric hospitals need to disclose their charges?,566,584,Success,
+583d9221-3d18-4dca-bd5c-4782ca669c5f,24-09-2025 11:05,PDF Q&A,What does CMS mean by â€œstandard chargesâ€?,1192,648,Success,
+7a519efa-2f09-43e1-be5e-3169594d0367,24-09-2025 11:06,PDF Q&A,What types of charges must be included in disclosures?,929,742,Success,
+f10ab8b2-50cc-40d5-84c3-ff52abee2526,24-09-2025 11:06,PDF Q&A,What is meant by â€œitems and servicesâ€ under the regulation?,794,695,Success,
+dae732f1-ff49-4d27-a97a-d2ebadfc4f58,24-09-2025 11:06,PDF Q&A,Are professional services provided by employed physicians included?,436,479,Success,
+18f3083d-b4b3-48aa-8be7-d08cd5404fef,24-09-2025 11:06,PDF Q&A,What are the two formats hospitals must use to disclose prices?,177,544,Success,
+fbac48b9-790a-4899-8a50-4e234b97c164,24-09-2025 11:06,PDF Q&A,Where must hospitals post their machine-readable files?,87,534,Success,
+2c067a3f-f126-4a05-b39e-98c4152c1b2f,24-09-2025 11:07,PDF Q&A,What is meant by a â€œconsumer-friendly displayâ€?,1365,1043,Success,
+cb195e9d-5d3f-4906-875a-67c1050acce7,24-09-2025 11:07,PDF Q&A,Can a hospital provide a price estimator tool instead of a list?,370,547,Success,
+07d091bf-09cc-4a7d-ba4f-6bc54090e28f,24-09-2025 11:07,PDF Q&A,How many shoppable services must hospitals provide?,304,561,Success,
+232e9838-2937-44bc-a492-28582b146bf1,24-09-2025 11:08,PDF Q&A,Must a hospital include emergency services in its disclosure?,594,855,Success,
+2e6b186a-4c62-4170-985d-49a6f08535fc,24-09-2025 11:08,PDF Q&A,What if a hospital provides fewer than 300 shoppable services?,32,447,Success,
+389ee5c4-0b08-4e3c-88dd-c11f30f80b69,24-09-2025 11:08,PDF Q&A,Can a hospital appeal a civil monetary penalty (CMP)?,13,399,Success,
+b45040d3-7c8b-4d97-b9dc-ba22dd8f438a,24-09-2025 11:09,PDF Q&A,What process must a hospital follow to appeal?,1312,1002,Success,
+33fbfb68-066d-476d-9751-5afde835a310,24-09-2025 11:09,PDF Q&A,How does CMS determine the penalty amount?,778,757,Success,
+d82e1318-533b-4b25-af92-1dfddb2f992e,24-09-2025 11:09,PDF Q&A,What happens if a hospital fails to implement its CAP?,1413,780,Success,
+45ace9c5-9e93-491f-9e32-c1ea165c09c1,24-09-2025 11:10,PDF Q&A,What if a hospital contracts out billing servicesâ€”who is responsible for compliance?,13,447,Success,
+fd0e1d8d-1ce2-44d3-9e22-56b1f82a2877,24-09-2025 11:11,PDF Q&A,Are preventive services required to be listed as shoppable?,124,523,Success,
+2d416f2f-2c8f-4853-9a10-334fb931b890,24-09-2025 11:11,PDF Q&A,What happens if a hospital is found noncompliant?,606,701,Success,
+d615eebc-df5e-420c-afad-4804161be7ea,24-09-2025 11:13,PDF Q&A,How often must the shoppable services list be updated?,89,453,Success,
+82adf6f7-4804-4d8c-acdb-66b9998b5627,24-09-2025 11:14,PDF Q&A,What is the legal basis for the Hospital Price Transparency requirements?,1311,906,Success,
+e6349d7a-3d98-4b6f-9dbf-202199bb6833,24-09-2025 11:14,PDF Q&A,How does CMS require hospitals to make public their standard charges?,246,457,Success,
+806ab850-0cc4-4364-ae84-070c6c27150d,24-09-2025 11:14,PDF Q&A,What is a â€œmachine-readable fileâ€?,1183,862,Success,
+e409a9de-d6c6-4bca-98fb-7b7741bd3749,24-09-2025 11:15,PDF Q&A,What naming conventions should hospitals follow when posting their machine-readable files?,107,430,Success,
+0cce1a4a-c366-4753-ab9a-c11640e7ce1f,24-09-2025 11:15,PDF Q&A,How should hospitals handle multiple facilities under the same license?,1360,996,Success,
+7ac8a399-9014-4e0a-bd6f-682037c344f1,24-09-2025 11:15,PDF Q&A,What does CMS consider a plain-language description in the consumer display?,1072,822,Success,
+e3bc973d-b2ac-45bb-887f-3f1e9341e3cf,24-09-2025 11:15,PDF Q&A,Can a hospital appeal a civil monetary penalty?,174,463,Success,
+c0f21415-2ba3-412e-9129-6c0f5a0dd1e2,24-09-2025 11:16,PDF Q&A,What happens if a hospital does not comply with the transparency rules?,1139,827,Success,
+e06bc2b7-67dc-43b0-961c-c4fc6dcbca15,24-09-2025 11:16,PDF Q&A,What is a â€œshoppable serviceâ€?,885,704,Success,
+a7c0d7a6-99bf-4c22-b8d8-e86402d870e1,24-09-2025 11:16,PDF Q&A,How does CMS enforce compliance?,950,727,Success,
+19808845-36d2-4582-a58e-63f9ef27f9a6,24-09-2025 11:17,PDF Q&A,How should hospitals display ancillary services and packages?,375,724,Success,
+dcc43dd1-addd-4719-80ca-db9c6718eb68,24-09-2025 11:17,PDF Q&A,What is the implementation timeline for the new Hospital Price Transparency requirements in the CY 2024 OPPS/ASC Final Rule?,985,968,Success,
+f5441730-0d55-45bb-802a-de4585fd213c,24-09-2025 11:17,PDF Q&A,How does the hospital price transparency initiative support consumers of healthcare services?,1114,707,Success,
+89245590-d099-4e3f-bdb2-80e67da9a259,24-09-2025 11:18,PDF Q&A,Where can I find information about other federal price transparency initiatives?,645,653,Success,
+9741dba9-11a6-4b3b-8c7f-577e4befc5b5,24-09-2025 11:18,PDF Q&A,Does the Hospital Price Transparency regulation require hospitals to tell me the cost of services prior to receiving care?,563,610,Success,
+d5ed096d-8039-4149-8a87-62fb8dc60c43,24-09-2025 11:18,PDF Q&A,I received a hospital bill that doesnâ€™t match the hospitalâ€™s posted chargesâ€”can the CMS program help me?,1004,652,Success,
+d6ee9c9d-a23b-4a65-b2f0-5061991f4f4e,24-09-2025 11:18,PDF Q&A,Will hospitals be able to apply for a hardship waiver or exception to the requirements?,242,416,Success,
+50cbdbe4-8d04-4669-9007-2f5e3c530ae3,24-09-2025 11:18,PDF Q&A,"How does CMS define a hospital under the Final Rule, and does it apply to Critical Access Hospitals (CAHs) and rural hospitals?",1082,723,Success,
+8cf70aba-0567-4247-bb2e-01f0a7301546,24-09-2025 11:19,PDF Q&A,"What hospital â€œitems and servicesâ€ are included, and what is a â€œservice packageâ€?",1160,653,Success,
+76124426-c443-4a49-86e4-461cbffc4f10,24-09-2025 11:19,PDF Q&A,What is considered a â€œbase rateâ€ for a service package?,129,683,Success,
+35a56473-256c-4be3-bf8d-fbe5b8065b6f,24-09-2025 11:24,Research & Latest Topics,What are the benefits of renewable energy in todayâ€™s world?,484,46398,Success,
+465a5aca-501f-4bee-93d2-49467d54ed89,24-09-2025 11:27,Research & Latest Topics,Who won the most recent FIFA World Cup?,9,206234,Success,
+4a04e54c-a4df-48c9-9751-c3d33ae64195,24-09-2025 11:31,Research & Latest Topics,What is the role of the United Nations?,326,150605,Success,
+5bed67e6-6310-425f-a6f3-6113e46fb067,24-09-2025 11:32,Research & Latest Topics,What are effective time management techniques?,1791,62132,Success,
+eb78ae5c-0aa7-4a24-a2d5-29e563a74cc9,24-09-2025 11:42,Research & Latest Topics,How can I improve my communication skills?,263,86329,Success,
+f1286556-380e-4e50-82ba-98f7fa272bfb,24-09-2025 11:44,Research & Latest Topics,What is critical thinking?,430,6058,Success,
+5a98492b-a1a1-4a80-88aa-614d5bd1b898,24-09-2025 11:45,Research & Latest Topics,Explain the significance of the French Revolution,1788,38423,Success,
+807816d5-941b-4404-aaaa-0144430adc6b,24-09-2025 11:47,Research & Latest Topics,What is the largest desert in the world?,62,119474,Success,
+3591ef87-a6ed-41b2-81dc-b59638e4fa40,24-09-2025 11:49,Research & Latest Topics,Explain the role of exercise in maintaining health.,795,49552,Success,
+34c5ce89-c64f-4528-af85-e2ba96591b9f,24-09-2025 12:05,Research & Latest Topics,What are antibiotics?,458,179559,Fail,429
+9dd93d53-5441-405f-8bd7-ad5ffd52a97b,24-09-2025 12:07,Research & Latest Topics,How can I build confidence?,461,46130,Fail,429
+ab07b2e6-27e6-4f95-acb7-5cf3cb4610d4,24-09-2025 12:12,Research & Latest Topics,What are leadership qualities?,462,4065,Fail,429
+aa729ae8-af16-4e97-97a2-06bd6c926cd1,24-09-2025 12:13,Research & Latest Topics,Explain the water cycle.,456,39201,Fail,429
+9d6e9042-ce3c-4492-9f33-763b9b664b9c,24-09-2025 12:20,Research & Latest Topics,What role did the pyramids play in Ancient Egypt?,456,6526,Fail,429
+df11ff57-aaf9-4eb5-a81a-51baeac3bf64,24-09-2025 13:02,Research & Latest Topics,What role did the pyramids play in Ancient Egypt?,114,49700,Success,
+55a82a4e-2997-45ca-95ea-d5d7a2ff30cf,24-09-2025 13:03,Research & Latest Topics,What are antibiotics?,457,5554,Fail,429
+ca8f7735-712c-433f-aaa0-405bf851f2d0,24-09-2025 13:04,Research & Latest Topics,What were the main causes of World War I?,456,2635,Fail,429
+31d9ef55-20d2-4231-9078-99032e1c2583,24-09-2025 13:05,Research & Latest Topics,What was the Cuban Missile Crisis?,455,2292,Fail,429
+d3356e66-ac94-43cb-b31a-e4c4c006f711,24-09-2025 13:05,Research & Latest Topics,What are the major impacts of globalization in the 21st century?,456,85,Fail,429
+e393e058-5fcf-41be-8534-db8285bf61f3,24-09-2025 13:14,Research & Latest Topics,What are the major impacts of globalization in the 21st century?,462,5317,Fail,429
+772b64d1-8cc4-4d5a-9e86-230f5cc6b2c3,24-09-2025 13:16,Research & Latest Topics,What was the Cuban Missile Crisis?,461,3452,Fail,429
+fdcb7a39-fbd8-4de5-a21d-2b69ee00d717,28-09-2025 12:42,Solve Math Problem,What is  245 + 678?,1079,883,Success,
+960e066d-b9c2-4117-9c3f-a1cd35262e5f,28-09-2025 12:43,Solve Math Problem,Subtract  875 âˆ’ 429,1776,1465,Success,
+196a7ce9-98b4-494c-849e-bb6c3f9b3fb3,28-09-2025 12:43,Solve Math Problem,Multiply  56 Ã— 47,516,591,Success,
+c9fa46ff-b54f-4a64-97ae-909072294dcd,28-09-2025 12:43,Solve Math Problem,Divide  1440 Ã· 16,812,701,Success,
+f5b58369-852f-4658-9306-17d2090a12db,28-09-2025 12:43,Solve Math Problem,What is  15 2 15 2 ?,697,566,Success,
+300f1ba4-ccd1-4986-9f36-c1aecb8ea762,28-09-2025 12:44,Solve Math Problem,What is  15 ^2?,702,743,Success,
+7a23dfc8-d8e0-4f8d-bb45-5fa15fd31593,28-09-2025 12:44,Solve Math Problem,Convert  0.875 into a fraction.,841,791,Success,
+0e814799-3bac-46f5-928e-d169f0b5d3e7,28-09-2025 12:44,Solve Math Problem,Solve for  x: 2x+5=17.,593,531,Success,
+44a9b671-ca54-4fed-b0c6-8d6a9842f8a8,28-09-2025 12:45,Solve Math Problem,Solve for y: 3yâˆ’7=11.,898,859,Success,
+7b035d41-6d7e-4629-954d-9721f387018d,28-09-2025 12:45,Solve Math Problem,"If  4a+3=19, find  a.",453,525,Success,
+12844661-07b1-4ad0-a98c-876d51e00335,28-09-2025 12:46,Solve Math Problem,Expand: (x+3)(xâˆ’2).,854,1031,Success,
+37ec2ba4-2037-43f1-82d5-453d95605957,28-09-2025 12:46,Solve Math Problem,Find the area of a triangle with base 10 cm and height 8 cm.,891,610,Success,
+524955b1-084c-498d-b76c-d753d9905846,28-09-2025 12:46,Solve Math Problem,What is the circumference of a circle with radius 7 cm?,485,600,Success,
+96f398b0-918c-4401-9a51-8b64a8015ed2,28-09-2025 12:46,Solve Math Problem,Find the volume of a cube with side length 5 cm.,602,644,Success,
+a6ccc3d6-344f-4085-8e13-adfb1f877d75,28-09-2025 12:46,Solve Math Problem,Find the perimeter of a rectangle with length 12 cm and width 8 cm.,522,560,Success,
+a332b9da-3c2c-4d15-8af3-e00c9feb9207,28-09-2025 12:46,Solve Math Problem,The diagonal of a square is 10 cm. Find the side length.,1254,983,Success,
+4d8e1754-390f-4816-81ca-a520a2fa925d,28-09-2025 12:47,Solve Math Problem,A die is rolled once. What is the probability of getting a 6?,1179,737,Success,
+55361f01-42c8-4973-9a1a-067da13bd89a,28-09-2025 12:47,Solve Math Problem,A coin is tossed 3 times. What is the probability of getting exactly 2 heads?,1261,757,Success,
+e77938e5-c525-4f72-ac87-988272be7470,28-09-2025 12:47,Solve Math Problem,"Find the mean of 12, 15, 20, 25, 28.",631,557,Success,
+c3bc0a8f-2725-42de-b8c3-1998dd8e803d,28-09-2025 12:48,Solve Math Problem,"The median of the numbers 7, 12, 15, 20, 30 is?",785,669,Success,
+3ec24670-337a-4d4a-a896-7ec2a0cb14a7,28-09-2025 12:48,Solve Math Problem,A train travels 120 km in 2 hours. What is its average speed?,616,583,Success,
+7d661465-ea67-4451-ba88-a1bb6d4b3ca5,28-09-2025 12:48,Solve Math Problem,A shopkeeper bought a pen for â‚¹45 and sold it for â‚¹60. Find his profit percentage.,875,761,Success,
+9c38c85b-b1c4-4331-8143-7d5de6c4eb2a,28-09-2025 12:49,Solve Math Problem,A tank fills with water at 10 liters per minute. How long will it take to fill 250 liters?,1063,678,Success,
+cbc917a9-f2fa-4190-aa89-1d447aa9d671,28-09-2025 12:49,Solve Math Problem,"The sum of two numbers is 70, and their difference is 18. Find the numbers.",1036,708,Success,
+0c545638-48e6-4844-9cdc-a643086d38bc,28-09-2025 12:49,Solve Math Problem,"A man spends 40% of his salary on rent and still has â‚¹12,000 left. What is his salary?",1106,837,Success,
+59b87410-2a08-4634-9520-f7a2b5677018,28-09-2025 12:49,Solve Math Problem,"If the first term of an arithmetic progression (AP) is 5 and the common difference is 3, what is the 10th term?",873,802,Success,
+8ff41e9a-b422-4496-8907-cc379bc3eb66,28-09-2025 12:50,Solve Math Problem,Find the roots of  ð‘¥^2 + 4 ð‘¥ + 4 = 0 ,1163,847,Success,
+c039cc7a-9b45-44f5-b89b-66ac9f1df8b6,28-09-2025 12:50,Solve Math Problem,Find the greatest common divisor (GCD) of 45 and 60.,708,662,Success,
+00b74f70-4466-4a2a-bcac-fcb0a20b6baf,28-09-2025 12:50,Solve Math Problem,"If a student scored 72 out of 90, what is the percentage score?",495,491,Success,
+71a243f0-40a6-4670-bd75-c2bb942fd2ee,28-09-2025 12:51,Solve Math Problem,Find the area of a circle with diameter 14 cm.,509,486,Success,
+be854f57-3e82-4d9b-b24b-f7cf7ca4903a,28-09-2025 12:51,Solve Math Problem,Simplify:  ( 2 ð‘¥ + 3 ) ^ 2 ,503,669,Success,
+751f61d3-bdb8-4ed8-a496-b98751e8e721,28-09-2025 12:52,Solve Math Problem,Integrate   âˆ«(2x+3)dx.,1058,796,Success,
+32cd25a1-1518-4e95-bb5a-1b7162bcfdbe,28-09-2025 12:53,Solve Math Problem,What is 25% of 480?,559,542,Success,
+e4ad567a-e1b5-41a4-8e26-ff9f25673153,28-09-2025 15:26,PDF Q&A,For which star ratings is the   Luxury Hotel Designator applicable? ,82,482,Success,
+e405fa46-602a-40bf-86f6-c238ace043dc,28-09-2025 13:00,Research & Latest Topics,Explain the difference between supervised and unsupervised learning,410,55619,Success,
+0e141611-10e2-414c-addd-ca62d83edd2d,28-09-2025 13:04,Research & Latest Topics,Who won the Nobel Prize in Physics in 2023?,106,221956,Success,
+c5706e4f-d6bb-47db-a80a-211c34a60113,28-09-2025 13:06,Research & Latest Topics,Summarize the key points of the Paris Agreement.,1590,126804,Success,
+3f971b69-ef42-4f5c-a8a3-e8027a305af2,28-09-2025 13:10,Research & Latest Topics,Summarize the main findings of the IPCC report.,459,170631,Fail,429
+e750237b-9997-4ed5-b098-dc6ccf0f4938,28-09-2025 13:17,Research & Latest Topics,What are the latest renewable energy policies worldwide?,51,360761,Success,
+f77c95d5-d493-47ad-9103-98841dab9997,28-09-2025 13:20,Research & Latest Topics,What are current trends in data privacy laws?,51,167149,Success,
+5224eede-c153-41bc-811d-fb4058e18a36,28-09-2025 13:23,Research & Latest Topics,What are the top 5 AI companies in 2025?,51,167639,Success,
+d037390d-675f-4974-b60d-94f8a1bb51f6,28-09-2025 13:27,Research & Latest Topics,Explain ethical AI principles.,51,190788,Success,
+953e6777-6371-4dec-a9b1-6feeeeacccce,28-09-2025 13:30,Research & Latest Topics,Explain the importance of peer review.,51,177618,Success,
+450efda0-9c19-4874-97ba-0755aee28233,28-09-2025 13:37,Research & Latest Topics,Give recent studies on air pollution,51,136673,Success,
+372217f5-6094-4780-b38f-563288a6e2c2,28-09-2025 13:40,Research & Latest Topics,Any recent world records set in sports or science?,51,171024,Success,
+41d7b1ec-7197-42f9-bf05-8d2dd8b60a0c,28-09-2025 13:45,Research & Latest Topics,Which country launched the first commercial space station?,51,131150,Success,
+577fad0c-2180-4d69-b182-e22876cdbeea,28-09-2025 14:17,Research & Latest Topics,Which country implemented the most effective poverty reduction program in 2023?,51,161422,Success,
+f2c31e87-59ab-4d02-a190-eabfd6ff76ec,28-09-2025 14:25,Research & Latest Topics,What is the largest ocean on Earth?,51,132206,Success,
+0d9cf348-9d60-468b-8ec8-b6c3235f1146,28-09-2025 14:41,Research & Latest Topics,Who invented the telephone?,51,113681,Success,
+f42ed5a5-2a26-45a9-9200-9ddc82b4b46e,28-09-2025 14:47,Research & Latest Topics,Who is the CEO of Tesla in 2025?,51,138550,Success,
+8a74edb0-268b-44f5-b047-f448066b5f54,28-09-2025 14:54,Research & Latest Topics,What is a balanced diet?,459,157778,Fail,429
+77beba42-b915-4ad5-92fc-e72950bbd59a,28-09-2025 14:57,Research & Latest Topics,Name one greenhouse gas.,51,139671,Success,
+b4e47b04-68ee-4462-908a-ab4c10e0cc8d,28-09-2025 15:01,Research & Latest Topics,Name a way to save water.,51,136909,Success,
+95f51b2d-8565-4ed0-9e59-26b19602669e,28-09-2025 15:06,Research & Latest Topics,Which country implemented the most effective plastic waste reduction policy in 2023?,51,169790,Success,
+06984a0b-4df9-4775-9fe5-f313e4217609,28-09-2025 15:12,Research & Latest Topics,What were the major outcomes of the 2023 United Nations Ocean Conference?,51,180336,Success,
+12717e5b-268c-47ef-b4b9-f190743c8d0c,28-09-2025 15:12,PDF Q&A,"What is the primary purpose of the Abu Dhabi Hotel Classification System, as stated in the manual?",16,0,Fail,400
+6f7ef198-c8d4-4166-8c47-59086987b291,28-09-2025 15:13,PDF Q&A,"What is the primary purpose of the Abu Dhabi Hotel Classification System, as stated in the manual?",216,34093,Success,
+e61fcc3c-76d1-4508-bb6b-d5ff3d43bf2c,28-09-2025 15:14,PDF Q&A,"What are the key System Focus Areas outlined in the manual, and how do they contribute to the rating?",1916,1047,Success,
+7a74832c-5e91-4c2a-8984-53beecab21a5,28-09-2025 15:14,PDF Q&A,What major System Enhancements were introduced to the classification framework?,536,550,Success,
+4865ec7c-dbe2-454c-af6f-7db9981b67a8,28-09-2025 15:14,PDF Q&A,What specific requirements must be met under the General Standards (1.1) section?,757,753,Success,
+e46e1331-2f72-452d-a468-8b1e4d296354,28-09-2025 15:14,PDF Q&A," What key compliance points are listed for Building Safety, Security, and Access (1.2)? ",151,631,Success,
+3b5037ce-3275-4cc7-bf64-dcd9a6b69b50,28-09-2025 15:15,PDF Q&A,What happens if a hotel fails to meet even one point of the Minimum Mandatory Criteria?,430,1071,Success,
+1178317d-869b-4150-98b4-8b96ea9879e1,28-09-2025 15:15,PDF Q&A,What are the minimum requirements for the size and furnishings of a Guest Room?,416,609,Success,
+a6bc4346-5ef4-45d1-b052-e59f354e0ebd,28-09-2025 15:16,PDF Q&A,"What specific mandatory requirements are listed for the Public Areas (1.5), such as the lobby or reception?",199,650,Success,
+bf385ce1-3344-4624-b9d6-50a29d0b800f,28-09-2025 15:16,PDF Q&A,"How is the final Star Rating determined, and what are the major components contributing to the total score?",1493,1087,Success,
+6744bea8-9c5d-4d93-9ecc-83e83202fa4f,28-09-2025 15:16,PDF Q&A,How are Outdoor Areas and Landscaping (2.1.2) evaluated and scored? ,81,717,Success,
+1b8764a6-7db0-40fc-ad62-d2f9182b0f33,28-09-2025 15:17,PDF Q&A,How is staff interaction and service evaluated beyond the mandatory criteria in the Rating Criteria?,1114,970,Success,
+389cb3df-f4fb-4873-a874-3ace244da0c4,28-09-2025 15:17,PDF Q&A,What criteria are used to score the quality of leisure and recreation facilities?,318,617,Success,
+e6db848c-0b92-49ae-8c96-1a15183c97ce,28-09-2025 15:17,PDF Q&A,What is the definition and specific requirement for a hotel to qualify for the Resort Product Designator?,13,487,Success,
+f9aebe33-5ce3-4ecb-a1b1-e2c56af90903,28-09-2025 15:17,PDF Q&A,What unique criteria must a property meet to be classified as a Luxury Hotel?,478,1278,Success,
+b7f5ef35-8724-4bd2-a739-988fcd852a6a,28-09-2025 15:17,PDF Q&A,What is the significance and what are the specific criteria for the Airport Hotel Product Designator?,914,763,Success,
+9f544d23-820f-4cc0-a577-479d7a6c46aa,28-09-2025 15:18,PDF Q&A,What specific examples of eco-friendly policies are mentioned that must be communicated to guests?,13,426,Success,
+da083c4e-987e-49f4-b2ee-16e64c01fe15,28-09-2025 15:18,PDF Q&A,What are the guidelines for hotel purchasing practices to maximize benefits to the local economy?,13,566,Success,
+971969fb-8a79-47a4-bf1c-41841e18a5a8,28-09-2025 15:18,PDF Q&A,What is the typical re-classification or audit frequency specified for hotels?,334,601,Success,
+eb59ae2e-bb0d-475a-80ef-05c906fb4a9c,28-09-2025 15:19,PDF Q&A,"How does the manual score the integration of technology and connectivity features (e.g., smart rooms)?",152,709,Success,
+64f3ea3a-4937-49c1-bde6-a3aa3a7ca20b,28-09-2025 15:20,PDF Q&A,What four   driving principles guided the development phase of the enhanced system?,158,526,Success,
+fe84165c-4844-4596-b86d-338f7b6afc52,28-09-2025 15:20,PDF Q&A,What specific feature was introduced to the system to place a higher focus on   guest satisfaction?,129,504,Success,
+3de4ded7-a524-4ee7-a217-6ce7bc6553f8,28-09-2025 15:21,PDF Q&A,What are the five   System Elements that comprise the Enhanced System? ,182,535,Success,
+0d939eae-fa47-4a9b-9ed2-5eccc428310c,28-09-2025 15:21,PDF Q&A,What is the   definition of the Minimum Mandatory Criteria element of the system? ,444,549,Success,
+80eff7a0-ee52-42f1-9684-90e2eedadcb7,28-09-2025 15:21,PDF Q&A,How often does the Department of Culture and Tourism (DCT) monitor the   Guest Experience Index (GEI) after a classification has been awarded?,187,593,Success,
+fbc085ce-6a53-4501-9b7e-44cd30be4937,28-09-2025 15:21,PDF Q&A,What is the exact   process if the GEI drops below the minimum threshold for a specified period?,551,860,Success,
+34e27453-aeec-43d1-a8e7-4a4999fb5adb,28-09-2025 15:22,PDF Q&A,What are the grace periods provided to existing hotels to comply with enhanced criteria that require   additional expenses versus physical changes? ,12,687,Success,
+ea513e20-ac5e-4332-be8c-4398ea9bd017,28-09-2025 15:22,PDF Q&A,What is the long-term goal for hotels regarding   Self-Inspections within the E-System? ,293,704,Success,
+53c6bd84-39c3-425b-8a65-4fcf06bb65be,28-09-2025 15:22,PDF Q&A,What specific GEI minimum score is required for a   5-Star hotel classification?,118,543,Success,
+3dd905ee-2772-43ab-acc9-099e74187e2b,28-09-2025 15:23,PDF Q&A,How are scores for the Guest Experience Index (GEI)   balanced regarding verified versus non-verified feedback platforms?,245,617,Success,
+e06bdb1b-cab0-4249-b4dd-b27555329dfb,28-09-2025 15:23,PDF Q&A,"What additional weight factor, besides the platform type, is used in balancing the GEI score?",252,636,Success,
+0fc015f6-9352-41b2-8765-2aaf08403ebd,28-09-2025 15:23,PDF Q&A,What are the mandatory requirements for a hotel's   power generator capability?,12,1062,Success,
+5060ecc3-62cb-48ae-9eb2-fb219fc2ae93,28-09-2025 15:23,PDF Q&A,What is the required frequency for changing   bed linen for a 5-star versus a 2/3/4-star hotel?,125,498,Success,
+f7684e76-f1c6-4fab-8abb-c35cefb9b218,28-09-2025 15:23,PDF Q&A,For which star ratings is the   Luxury Hotel Designator applicable? ,94,607,Success,
+c42b728a-944d-4a78-8bc0-5d50ebfa4a9b,28-09-2025 15:24,PDF Q&A,What is a specific example of an exemption from Minimum Mandatory Criteria that the Airport Hotel Designator may allow?,203,463,Success,
+282f7b8c-d40c-430a-a109-1ef4b341c428,28-09-2025 15:24,PDF Q&A,"What is the primary   commitment to guests regarding the availability of services (housekeeping, F&B, leisure) at an Airport Hotel?",195,590,Success,
+413e8667-8073-43fe-956f-ce9e8f60a434,28-09-2025 15:24,PDF Q&A,What is the minimum clear   working space (mÂ²) required in a guest room for a hotel with the Convention Hotel Designator? ,13,491,Success,
+7a922790-23c1-4f9a-8045-45d22d811aa1,28-09-2025 15:26,PDF Q&A,For which star ratings is the  Luxury Hotel Designator applicable? ,91,421,Success,
+9ed6214a-ade1-41f6-bdfa-6ed87a238522,28-09-2025 15:27,PDF Q&A,What is a specific example of an exemption from Minimum Mandatory Criteria that the Airport Hotel Designator may allow?,166,528,Success,
+091843a0-01ec-40db-a55e-f2073a56042f,28-09-2025 15:27,PDF Q&A,What two mandatory policies are detailed for hotels seeking the   Eco-friendly/Sustainable Hotel Designator regarding purchasing practices and the use of local artwork/crafts?,16,1,Fail,400
+79e289ac-cdee-45df-a464-a46c18adef51,28-09-2025 15:29,PDF Q&A,What two mandatory policies are detailed for hotels seeking the   Eco-friendly/Sustainable Hotel Designator regarding purchasing practices and the use of local artwork/crafts?,219,542,Success,
+30e9aad5-603f-425b-aa1c-ffff1057f00c,28-09-2025 15:30,PDF Q&A,What is the minimum requirement for F&B outlets regarding designated   non-smoking sections? ,138,516,Success,
+f54c18fe-65c0-432e-9704-8eb1440d295e,28-09-2025 15:30,PDF Q&A,What is the mandatory volume requirement (in ml) for   liquid amenities in a 5-star guest bathroom? ,151,600,Success,
+a9ca1d6d-9927-42d9-a599-b8c7fdca1819,28-09-2025 15:30,PDF Q&A,What is the mandatory requirement for an annual   deep cleaning schedule for guest rooms?,13,467,Success,
+fc0107d5-32c6-4e45-a16a-5a8acc8bd0f4,28-09-2025 15:30,PDF Q&A,What is the minimum standard for staff availability at the front desk who can speak   Arabic and English across the star ratings?,374,568,Success,
+6b1b5b71-35ed-42f4-b3e7-7eefffede1e0,28-09-2025 15:31,PDF Q&A,"How long must a hotel maintain its accounting books, records, and data?",136,538,Success,
+fa26cacf-f9f6-4274-97ef-6b5aad992678,28-09-2025 15:31,PDF Q&A,"What is the minimum duration for which a hotel must maintain its accounting books, records,",132,477,Success,
+92eecfd3-7a82-4deb-b54c-52d1c7deec00,28-09-2025 15:32,PDF Q&A,"What is the maximum score allocated to   Guest Bedrooms in the Rating Criteria, and what percentage is this of the total score? ",198,588,Success,
+60f67fb0-f456-4648-9ef5-4aa03dce6cec,28-09-2025 15:32,PDF Q&A,What is the minimum clear   working space (in mÂ²) required in a guest room for the Convention Hotel Designator for both 5-star and 4-star properties? ,269,545,Success,
+2e4d7ded-aa16-4e3e-bad9-c965803d870c,28-09-2025 15:33,PDF Q&A,Which   two services are guests expected to have available 24 hours a day at an Airport Hotel? ,370,652,Success,
+99b662e9-33e2-4d81-a161-18933d986033,28-09-2025 15:33,PDF Q&A,What is the minimum required   Guest Experience Index (GEI) score for a 5-Star property?,229,638,Success,
+fec78e91-3f61-4a61-92a8-09b45ca2c98c,28-09-2025 15:33,PDF Q&A,"What is the key difference between a hotel, a hotel apartment, and a resort in the context of obtaining a license?",494,541,Success,
+897eed3d-cdbe-4b4b-8358-c1e2017cdb23,29-09-2025 16:18,Research & Latest Topics,How is AI used in weather forecasting?,455,1146,Fail,429
+65680cac-6c0c-4fb6-93ba-66aabf5ad222,28-09-2025 15:35,Solve Math Problem,"A train travels 300 miles at a certain speed. If its speed had been 10 mph faster, the trip would have taken 1 hour less. What was the original speed?",1800,1434,Success,
+af9c46bf-aef9-4523-a3bb-8d538d5e0916,28-09-2025 15:35,Solve Math Problem,What is the area of an equilateral triangle with a side length of 6 units?,840,699,Success,
+7ee13b9d-dc32-4bc0-ac60-42b9651af1cf,28-09-2025 15:36,Solve Math Problem,What is the volume of a cone with a radius of 3Â inches and a height of 4Â inches?,961,743,Success,
+4ff1e272-7015-453d-8683-2276b13e32c5,28-09-2025 15:36,Solve Math Problem,"If cos(x)=0.6 and x is in the first quadrant, what is the value of sin(2x)?",803,617,Success,
+59c3f092-ae52-490d-b323-a65b168d25e6,28-09-2025 15:36,Solve Math Problem,A polygon has a total of 20 diagonals. How many sides does the polygon have?,919,689,Success,
+64b565f6-31c6-4420-9bfc-2bfdd52c3e5a,28-09-2025 15:36,Solve Math Problem,What is the measure of an interior angle of a regular octagon?,726,590,Success,
+7cbe321e-d0b8-48cf-bcfd-64a904aa6a9f,28-09-2025 15:36,Solve Math Problem,What is the 10th term of the arithmetic sequence if the first term is 3 and the common difference is 5?,736,630,Success,
+1ab861fa-6451-4f2b-a1ae-9c0e4020ff8e,28-09-2025 15:37,Solve Math Problem,"A bag contains 5 red marbles, 3 blue marbles, and 2 green marbles. What is the probability of picking a blue marble, followed by a red marble, without replacement?",1334,7959,Success,
+144d60fd-bbe5-47e1-b360-98dd8b305027,28-09-2025 15:38,Solve Math Problem,"Find the mean and median of the data set: {12,18,15,20,15,10,18}.",1260,55050,Success,
+3d90924c-080e-4c3c-9248-3fbc45be8343,28-09-2025 15:38,Solve Math Problem,In how many distinct ways can the letters of the word MISSISSIPPI be arranged?,454,101,Fail,500
+bd85546d-bd93-432d-b596-a7177dce3564,28-09-2025 15:39,Solve Math Problem,A coin is flipped 5 times. What is the probability of getting exactly 3 heads?,1982,9567,Success,
+bf71830e-f7cc-4e67-9c16-0791ba46809c,28-09-2025 15:39,Solve Math Problem,What is the total number of ways to choose a committee of 4 people from a group of 10 people?,454,74,Fail,500
+92b3371e-94a7-4f89-b880-d5f017338a46,28-09-2025 15:40,Solve Math Problem,"What is the variance of the following set of data: {2,4,6,8}? ",460,71,Fail,500
+bbb67085-5c06-4820-be5c-c2fce3a94ade,28-09-2025 15:40,Solve Math Problem,"If two sides of a triangle are 5Â cm and 8Â cm, and the included angle is 60  âˆ˜  , find the length of the third side.",454,76,Fail,500
+30a70736-307e-421a-9c91-1822642932ee,28-09-2025 15:41,Solve Math Problem,"If a line passes through the points (1,5) and (âˆ’2,âˆ’4), what is its slope and y-intercept?",1174,42937,Success,
+e45d9fc1-46e4-4066-9b6f-4de771ae7ca8,28-09-2025 15:43,Solve Math Problem,"What is the variance of the following set of data: {2,4,6,8}? ",455,122,Fail,500
+43658c6d-5537-48a7-b07f-bd34f0caaffe,28-09-2025 15:44,Solve Math Problem,"Are the vectors âŸ¨1,2âŸ© and âŸ¨3,6âŸ© linearly independent or linearly dependent?",904,671,Success,
+22abe3ef-622c-44c2-9060-2d825e5aeed6,28-09-2025 15:45,Solve Math Problem,Find the magnitude (length) of the vector w=3iâˆ’4j+5k,812,34763,Success,
+852b0a28-375e-4250-8e4c-75da59146c22,28-09-2025 15:46,Solve Math Problem,What is the definition of a 95% confidence interval for a population mean?,2758,47403,Success,
+9c05c4ae-c9f0-49cb-82e9-28b69bfcd3da,28-09-2025 15:47,Solve Math Problem,"If the variance of a data set is 100, what is the standard deviation?",455,124,Fail,500
+cd46d076-bb58-4728-adcd-0bde5f8d7236,28-09-2025 15:47,Solve Math Problem," If the correlation coefficient (r) between two variables is âˆ’0.9, what does this indicate about the relationship between them?",460,218,Fail,500
+45663f2c-df9a-4742-9ed1-87740c648842,28-09-2025 15:49,Solve Math Problem,A call center receives an average of 5 calls per minute. What is the parameter Î» for the Poisson distribution modeling this event?,700,43790,Success,
+8b8c7f39-3e01-43ae-abf8-cc868f048bc3,28-09-2025 15:49,Solve Math Problem,State the null hypothesis for a test designed to determine if the average height of students is different from 170Â cm.,1413,12175,Success,
+a6258a94-e397-4239-99c7-f676e2de8eaa,28-09-2025 15:50,Solve Math Problem,"What condition must the functions M(x,y) and N(x,y) satisfy for the differential equation Mdx+Ndy=0 to be exact?",1542,48056,Success,
+eabbb893-b51e-4ccd-99e0-4d925eb1e00b,28-09-2025 15:52,Solve Math Problem,What is the term for the set of functions used as the basis (the building blocks) for a standard Fourier series expansion?,1614,51063,Success,
+aac97525-641c-4aa0-9223-2f460624dde1,28-09-2025 15:53,Solve Math Problem,Define a Markov chain property.,2411,55228,Success,
+82912392-df56-4845-a64e-ec34da6add23,28-09-2025 16:18,Solve Math Problem,"If Set A has 5 elements and Set B has 3 elements, what is the maximum possible number of elements in the union AâˆªB?",1520,856,Success,
+1cff072f-3d5e-4d20-b33c-db9e2575e0e3,28-09-2025 16:19,Solve Math Problem,Find the prime factorization of the number 144,685,710,Success,
+08be80bc-9068-4100-b98b-f2d24fc24233,28-09-2025 16:19,Solve Math Problem,"Find the scalar dot product of the vectors u=âŸ¨1,âˆ’2,4âŸ© and v=âŸ¨3,5,1âŸ©.",456,587,Success,
+6c34fe3c-8643-41e2-896f-73fc9d49dd61,28-09-2025 16:20,Solve Math Problem,Find the magnitude (length) of the vector w=3iâˆ’4j+5k.,983,790,Success,
+3dbc2a93-895d-4414-a4ce-558f18ff7800,28-09-2025 16:20,Solve Math Problem,"A 10Â ft ladder is sliding down a wall. If the top of the ladder is moving down at a rate of 1Â ft/s when it is 6Â ft high, how fast is the bottom of the ladder moving away from the wall?",2394,1278,Success,
+3150e6f0-c8f0-4222-99d9-2ad62ad785e6,28-09-2025 16:20,Solve Math Problem,Find the two positive numbers whose sum is 20 and whose product is a maximum.,1569,956,Success,
+e5215e7c-ba4e-4c05-a6e1-3c22178d9979,28-09-2025 16:20,Solve Math Problem," What condition must the functions M(x,y) and N(x,y) satisfy for the differential equation Mdx+Ndy=0 to be exact?",1393,950,Success,
+eb0f632a-d18b-4690-babf-0bd4556baea4,28-09-2025 16:21,Solve Math Problem, Write the integral expression to find the volume of the solid generated by revolving the region bounded by y=x^ 2   and y=0 from x=0 to x=2 about the x-axis.,1566,977,Success,
+2e75d898-b583-452c-b351-955ca7af0ce9,28-09-2025 16:22,Solve Math Problem," If the variance of a data set is 100, what is the standard deviation?",470,484,Success,
+311dceeb-155e-4fdb-bae2-eddacc96cf3a,28-09-2025 16:22,Solve Math Problem,"How many different ways can a club president, vice-president, and treasurer be chosen from a group of 8 members?",1121,739,Success,
+2b4a2df7-9970-4354-bd97-b4e93a085677,28-09-2025 16:22,Solve Math Problem,What is the name of the statistical test commonly used to analyze the relationship between categorical variables in a contingency table?,1740,992,Success,
+e01013cf-18b4-4715-8cce-98576badb453,28-09-2025 16:23,Solve Math Problem,"If a pointer spins on a circular board divided into 4 equal sectors (Red, Blue, Green, Yellow), what is the probability that it lands on either Red or Green?",1152,822,Success,
+cf69fcdd-8cb0-4060-8fa3-d8287517eb7f,28-09-2025 16:23,Solve Math Problem,What is the primary difference between a simple random sample and a stratified random sample?,2401,892,Success,
+c272e67d-49c7-4153-bdff-3287ad0ea0c6,28-09-2025 16:24,Research & Latest Topics,What is the average distance from the Earth to the Sun in astronomical units (AU) and in kilometers?,456,5896,Fail,429
+f7c815f6-8ecf-4a06-ba91-a6c50df8e80b,28-09-2025 16:25,Research & Latest Topics,"Detail the major components of a standard lithium-ion battery (cathode, anode, electrolyte).",456,15383,Fail,429
+91bad2d5-2e1d-49ac-bf47-ad268e1fdc9f,28-09-2025 16:25,Research & Latest Topics,"What is the largest observed star (by radius) currently known to science, and what star system does it belong to?",456,66,Fail,429
+97ae3199-1a6c-48a7-844a-b5d18baca6dc,28-09-2025 16:27,Research & Latest Topics,"What is Occam's Razor, and how is it applied in the scientific method?",456,56213,Fail,429
+ebe81c67-e63e-4f0a-b627-217afecf36c2,28-09-2025 16:36,Research & Latest Topics,What are the latest trends in renewable energy?,456,4815,Fail,429
+91415ad9-8943-433a-8043-6b1cd41d2e61,28-09-2025 16:36,Research & Latest Topics,What is the current state of global deforestation?,455,3355,Fail,429
+2ba51100-2309-4381-8723-448a9b90abda,28-09-2025 21:45,Research & Latest Topics,What are the latest trends in renewable energy?,51,120056,Success,
+1711b6be-a706-47eb-bc86-181633bb5caf,28-09-2025 21:48,Research & Latest Topics,Explain the concept of metamaterials and their potential uses.,51,153170,Success,
+5ce5969a-e4ff-4075-a5d8-8f06c451ea4c,28-09-2025 21:52,Research & Latest Topics,Name a popular AI chatbot in 2025,51,145491,Success,
+040c36f1-b7c6-435a-b3ba-3ac9481b8c84,28-09-2025 21:55,Research & Latest Topics,Give an example of a smart wearable device,51,135869,Success,
+30d0d68b-65b3-4203-aed4-ad5d57f52075,28-09-2025 21:58,Research & Latest Topics,What is e-commerce?,51,117659,Success,
+1aae6558-c5dc-496d-89bb-1c01c3c94739,29-09-2025 15:32,Research & Latest Topics,What are the uses of drones in agriculture?,51,112005,Success,
+cbb3453e-8cdc-47bf-acc8-e8df6a856837,29-09-2025 15:36,Research & Latest Topics,What is solar energy?,51,163464,Success,
+b0e3214d-ab82-4503-9b4e-082e51b43bdc,29-09-2025 15:40,Research & Latest Topics,How is AI being used to detect and prevent fraud online?,51,170776,Success,
+0c65e11e-e5f1-4b5c-bda0-ceb6e381e80e,29-09-2025 15:44,Research & Latest Topics,How is 5G technology changing mobile connectivity worldwide?,51,166235,Success,
+abdaeb38-ca72-40c9-8c4a-6fb0bf6a652d,29-09-2025 15:49,Research & Latest Topics,How is blockchain impacting supply chain management?,1280,73835,Success,
+05f61c81-34fc-43e1-b65e-84d184140926,29-09-2025 15:58,Research & Latest Topics,How is blockchain impacting supply chain management?,265,186037,Success,
+63062316-721a-498d-8ea2-aaf70a3b6685,29-09-2025 16:01,Research & Latest Topics,AI in healthcare diagnostics?,51,137350,Success,
+9dc68f3b-c5f3-4cf3-b87a-3a4ad6226eef,29-09-2025 16:05,Research & Latest Topics,Impact of 5G technology worldwide?,51,187605,Success,
+83229ada-906f-4297-beeb-dfb96318fe1b,29-09-2025 16:11,Research & Latest Topics,Latest trends in 3D printing technology?,51,172452,Success,
+ebb17027-0808-4c2e-9256-7abe73adbd5f,29-09-2025 16:14,Research & Latest Topics,How is AI used in traffic management?,51,146243,Success,
+2aa043a6-d79d-4865-973e-b6ad89e5f17b,29-09-2025 16:15,Research & Latest Topics,How is blockchain impacting supply chain management?,460,4650,Fail,429
+f7df0afe-7f53-4a1a-8d7c-9ad35a4a0603,29-09-2025 16:16,Research & Latest Topics,Latest breakthroughs in cancer research?,461,1179,Fail,429
+151b4648-5dea-4180-bad2-0e87ccd9f5e4,29-09-2025 16:19,Research & Latest Topics,New trends in e-learning platforms?,461,11192,Fail,429
+961b2bcc-ee57-4c33-b723-0c87ba6b1ce5,29-09-2025 16:19,Research & Latest Topics,Advancements in natural language processing?,454,68,Fail,429
+c24d95cb-61ee-4863-bb4c-735f97a6d934,29-09-2025 16:20,Research & Latest Topics,Latest research in autonomous vehicles?,461,58369,Fail,429
+df6eaf7b-ddf0-41fc-8bb7-ed5aeb0a0e79,29-09-2025 16:21,Research & Latest Topics,Developments in smart city infrastructure?,455,112,Fail,429
+f09d14a9-fcab-463b-b804-e712510634e0,29-09-2025 16:22,Research & Latest Topics,New findings in brain-computer interfaces?,456,43407,Fail,429
+5e0c77c1-8c18-47c4-a890-7c95847c811e,29-09-2025 16:24,Research & Latest Topics,How is AI improving supply chain efficiency?,461,1126,Fail,429
+a839c485-44ce-4b4e-807e-ee94d471ee68,29-09-2025 16:25,Research & Latest Topics,AI in financial risk assessment?,456,37365,Fail,429
+3fd60cdb-2856-49c1-8067-ca462afa6501,29-09-2025 16:26,Research & Latest Topics,Advancements in facial recognition technology?,455,171,Fail,429
+ee53ecd6-27fa-483d-8db2-8ce280ad670a,29-09-2025 16:27,Research & Latest Topics,Current innovations in space tourism?,456,5171,Fail,429
+62a95b02-e442-493c-9b2e-dd500881bd22,29-09-2025 16:27,Research & Latest Topics,New developments in nanotechnology?,456,70,Fail,429
+254c186d-dbf6-4114-85d6-96a13ca28b5e,29-09-2025 16:28,Research & Latest Topics,How is blockchain used in healthcare records?,456,41438,Fail,429
+4785a4dd-9c44-4238-9a89-ed7582cac93f,29-09-2025 16:29,Research & Latest Topics,AI in financial risk assessment?,456,168,Fail,429
+00dc79a2-30f5-4ff3-90ff-e10408683e5b,29-09-2025 16:29,Research & Latest Topics,Developments in clean water technology?,456,131,Fail,429
+6fe83c9a-888f-409f-a9ae-c1bfe2db91db,29-09-2025 16:29,Research & Latest Topics,Developments in clean water technology?,455,121,Fail,429
+1b5f604c-7bb8-4d72-9e5d-59b6030400ed,29-09-2025 16:30,Research & Latest Topics,What is edge computing?,456,28114,Fail,429
+d88995f1-228b-4eee-91de-7c31cac94a21,29-09-2025 16:31,Research & Latest Topics,What are the latest developments in robotics?,456,128,Fail,429
+6d4c1744-4f72-4cdd-8726-eeed0ab34ac6,29-09-2025 16:32,Research & Latest Topics,What are the advantages of electric vehicles?,456,46157,Fail,429
+f6d4ba9d-420f-4592-83a7-3be54f633ed8,29-09-2025 16:32,Research & Latest Topics,What are smart cities?,456,71,Fail,429
+6e069036-2173-401c-b63c-45446e28b632,29-09-2025 16:32,Research & Latest Topics,How does telemedicine work?,460,162,Fail,429
+33ff039a-2b5d-411c-b267-d488099b3e43,29-09-2025 16:33,Research & Latest Topics,What are the latest trends in e-commerce?,461,45218,Fail,429
+a6520703-7965-4683-aae2-a134f53ece9b,29-09-2025 16:34,Research & Latest Topics,What is the future of AI in healthcare?,454,95,Fail,429
+9a2c3a42-6eab-4e23-ab65-d74fedf1e687,29-09-2025 16:35,Research & Latest Topics,What are the top tech innovations in 2025?,461,27348,Fail,429
+c56f2f7b-2170-452b-9833-9f4207606993,29-09-2025 16:35,Research & Latest Topics,How is deep learning used in speech recognition?,456,136,Fail,429
+ecb3f202-939d-4c65-817c-fa76f960fa3b,29-09-2025 16:36,Research & Latest Topics,What are the latest trends in mobile apps?,454,112,Fail,429
+805b2003-bffc-4c49-b8d9-7fe5f4d0e30b,29-09-2025 16:42,Research & Latest Topics,How is AI transforming transportation?,455,4279,Fail,429
+5cef40f6-ccc5-45b4-ba4d-c1930db047f1,29-09-2025 19:03,PDF Q&A,"What is the manual's definition of   ""Food Safety""?",16,0,Fail,400
+4474eb1d-c707-4be8-8e0f-c4776034a495,29-09-2025 19:04,PDF Q&A,"What is the manual's definition of   ""Food Safety""?",131,17335,Success,
+5da22c01-9a02-4da0-92a6-031c46877f4f,29-09-2025 19:04,PDF Q&A,"What are   Food Borne Diseases, and what are two common symptoms they can cause?",259,562,Success,
+d67b9d5e-3020-460d-8a61-92e5f5ce09f2,29-09-2025 19:04,PDF Q&A,Name the four specific groups of people mentioned as being   more at risk of severe illness from foodborne diseases,425,147,Fail,500
+5b07d362-2802-4693-ace7-bf326200b4ae,29-09-2025 19:05,PDF Q&A,Which type of food safety hazard is specifically identified as the   most important in catering and food service?,425,165,Fail,500
+2c72a0c3-83cc-4f1a-a7ca-0909ffe65ab5,29-09-2025 19:05,PDF Q&A,"Define   ""Food Spoilage""",425,130,Fail,500
+04ec7221-12e7-4fd7-ada2-26917e5b67b2,29-09-2025 19:06,PDF Q&A,What is the legal requirement regarding the setup location of new catering units in relation to environmentally polluted areas?,131,28549,Success,
+aa40e7c3-335b-4477-95ab-8ba29bfb6c25,29-09-2025 19:07,PDF Q&A,"Name three potential sources of contamination, such as waste water or open drains, that a catering location should avoid. ",425,126,Fail,500
+dfcaa6aa-8681-4b58-936b-5824f383cd6f,29-09-2025 19:07,PDF Q&A,"Explain the principle of   ""one-directional flow"" in the premise layout and why it is essential to prevent a ""backward flow"" of materials",430,96,Fail,500
+dcfd2c1e-1f8b-4416-b5eb-b126b2e53f76,29-09-2025 19:07,PDF Q&A,What are two specific labeling requirements that must be checked on products during the receiving process?,425,98,Fail,500
+994b4262-952b-455a-b9a4-74ea3f02ff7c,29-09-2025 19:08,PDF Q&A,"What are the recommended storage temperatures for: a) Frozen food, and b) Refrigerators/Refrigerated display units? ",424,113,Fail,500
+6d698d36-6806-4a16-874c-1f85c4793c33,29-09-2025 19:08,PDF Q&A,"What is the minimum height (in cm or inches) that all food must be stored off the floor, and what is one purpose of this rule?",429,139,Fail,500
+9f9582f2-0ee9-4b63-baf3-f20c51e4a200,29-09-2025 19:13,PDF Q&A,"What is the   First Expire, First Out (FEFO) principle, and what is its companion principle regarding stock rotation?",557,601,Success,
+bbc92e67-bfcd-438a-85ef-659eaa0e96f2,29-09-2025 19:13,PDF Q&A,"What is the minimum height (in cm or inches) that all food must be stored off the floor, and what is one purpose of this rule?",424,185,Fail,500
+e72d8919-36a0-4715-94af-00eed8c76b39,29-09-2025 19:13,PDF Q&A,What specific precaution must be taken when thawing frozen food in a refrigerator using a perforated pan?,430,144,Fail,500
+4c1ba8d1-e284-4391-a40e-2557ca8f8d1d,29-09-2025 19:13,PDF Q&A,"When reheating food, what visual cue indicates that a safe temperature has been reached? ",425,150,Fail,500
+1c01c549-c9bc-4940-a32f-39ba3561d6d8,29-09-2025 19:17,PDF Q&A,"When reheating food, what visual cue indicates that a safe temperature has been reached?",243,477,Success,
+e5702b27-82a3-4154-a18a-31fe4e5aabbc,29-09-2025 19:17,PDF Q&A,What specific precaution must be taken when thawing frozen food in a refrigerator using a perforated pan?,430,128,Fail,500
+4537339c-252a-4cb1-80db-c4b8181a996f,29-09-2025 19:23,PDF Q&A,What are two signs that indicate that delivered frozen food is unacceptable and should be rejected?,205,487,Success,
+ada75881-3cf1-48b6-bea1-8a14333cd6e8,29-09-2025 19:23,PDF Q&A,"What are the recommended storage temperatures for: a) Frozen food, and b) Refrigerators/Refrigerated display units? ",171,472,Success,
+88a4e7cf-37ce-43f9-8ce9-ef489b529ed2,29-09-2025 19:23,PDF Q&A,"What is the minimum height (in cm or inches) that all food must be stored off the floor, and what is one purpose of this rule? ",424,155,Fail,500
+3096a33a-9539-4b73-8a2a-f4358d8eacfd,29-09-2025 19:24,PDF Q&A,What specific precaution must be taken when thawing frozen food in a refrigerator using a perforated pan? ,425,140,Fail,500
+d9b29c29-abd3-4dd3-8306-1fe0ecdd8e04,29-09-2025 19:28,PDF Q&A,List four items of protective clothing/gear that all food handlers are required to wear. ,182,483,Success,
+e395ed1a-5ef4-4a7d-a9db-e3b0d0b9b6a7,29-09-2025 19:28,PDF Q&A,List three specific times when food handlers must   always wash their hands.,430,129,Fail,500
+05d887d0-5f99-43c8-94db-90973928927c,29-09-2025 19:31,PDF Q&A,Name the four major types of pests mentioned in the manual. ,213,27703,Success,
+04a389eb-edcb-4e1e-bf8c-5d80aeb8a43e,29-09-2025 19:31,PDF Q&A,List three structural measures that can be taken to prevent pests from entering the premises. ,425,189,Fail,500
+daac65c5-9e87-4e60-bb6c-d039ec94f9f7,29-09-2025 19:35,PDF Q&A,"Name two materials that should   not be used for cooking and storage utensils, and what material is highly recommended? ",247,29736,Success,
+d6c3bd11-4aed-4307-9b40-56c9202ed71a,29-09-2025 19:35,PDF Q&A,"If copper and brass utensils are used for food handling, what specific requirement must they meet? ",425,140,Fail,500
+11b669ee-2860-4a7e-8dbe-ef9cf4f3a859,29-09-2025 19:39,PDF Q&A,"If copper and brass utensils are used for food handling, what specific requirement must they meet?",123,35662,Success,
+d00a142c-b657-4905-8a7b-74a9f48c8778,29-09-2025 19:39,PDF Q&A,List three structural measures that can be taken to prevent pests from entering the premises. ,425,228,Fail,500
+9d339157-bbc9-43a5-8284-ea5c202fda28,29-09-2025 19:42,PDF Q&A,List three structural measures that can be taken to prevent pests from entering the premises.,663,24955,Success,
+a68d97f5-ba79-43fe-918d-b4474f329c3c,29-09-2025 19:43,PDF Q&A,What specific precaution must be taken when thawing frozen food in a refrigerator using a perforated pan? ,424,131,Fail,500
+b9d449d8-f34e-4316-b6e1-5c58b8c8fb8a,29-09-2025 19:54,PDF Q&A,"If a food establishment has an intermittent water supply, what is the required solution for water used in food or washing? ",153,435,Success,
+dc1ffa04-7594-4668-8f50-73fa777c1e47,29-09-2025 19:55,PDF Q&A,Name the four specific groups of people mentioned as being   more at risk of severe illness from foodborne diseases,211,540,Success,
+8d2192ed-63a1-45de-90fc-52f7f1b5a804,29-09-2025 19:55,PDF Q&A,Which type of food safety hazard is specifically identified as the   most important in catering and food service?,262,540,Success,
+902bfe09-0475-4d7a-b1b4-7b065576f83f,29-09-2025 19:55,PDF Q&A,"Define   ""Food Spoilage""",425,173,Fail,500
+a7c2d5e0-7191-4317-be26-97990f0ea975,29-09-2025 19:59,PDF Q&A,"Explain the principle of   ""one-directional flow"" in the premise layout and why it is essential to prevent a ""backward flow"" of materials",2318,1095,Success,
+15293ef1-7973-47d5-93cc-2a61ba11d258,29-09-2025 20:00,PDF Q&A,What are two specific labeling requirements that must be checked on products during the receiving process?,425,100,Fail,500
+02e23cd2-8823-4fb7-ae3f-22eababaeeee,29-09-2025 20:03,PDF Q&A,What is the critical safety rule regarding the use of chemical sprays for pest control in the kitchen? ,327,598,Success,
+45b29281-3a10-451e-95b5-258239bce395,29-09-2025 20:04,PDF Q&A,"What are the three requirements for the maintenance (storage, removal, and cleaning) of waste containers? ",429,184,Fail,500
+3dea55f0-cb58-4cb5-bd35-99a3f2a8fcd8,29-09-2025 20:08,PDF Q&A,"What are the three requirements for the maintenance (storage, removal, and cleaning) of waste containers? ",357,569,Success,
+d4f525e2-0c43-47b3-98d4-74e8095d4779,29-09-2025 20:09,PDF Q&A,What is the two-part policy regarding visitors who must enter the food production area? ,425,177,Fail,500
+be88ba5d-38ba-44d7-8e82-ccb1eea73304,29-09-2025 20:11,PDF Q&A,What is the two-part policy regarding visitors who must enter the food production area?,120,520,Success,
+c92fc76d-9e39-4e6b-8a33-3b97c803b8a9,29-09-2025 20:12,PDF Q&A,What is the minimum internal temperature (in Celsius) that food must reach during cooking to eliminate hazards? ,424,156,Fail,500
+f2193b24-196f-4c8a-8cf1-31c6133a10ed,29-09-2025 20:15,PDF Q&A,What is the minimum internal temperature (in Celsius) that food must reach during cooking to eliminate hazards? ,99,512,Success,
+bdf6cb41-0be6-425b-b897-20df9506817a,29-09-2025 20:16,PDF Q&A,"Define   ""Food Spoilage""",423,130,Fail,500
+b164e29f-1747-469a-a9e0-0893c7b1afb4,29-09-2025 20:19,PDF Q&A,"Define   ""Food Spoilage""",189,482,Success,
+817c2d32-cb5f-48cd-80e8-6de47c218f7e,29-09-2025 20:20,PDF Q&A,"When thawing food in a microwave oven, what is the core temperature range (in Celsius) that indicates the product is deemed to be thawed? ",425,201,Fail,500
+4ec45d81-fbb4-4a12-98d8-a07e9c7951b6,29-09-2025 21:11,Solve Math Problem,"The probability of a student passing a test is 0.7. If 3 students take the test, find the probability that all pass.",1378,748,Success,
+f22714b7-3e90-48f0-84f7-9654b66c4d87,29-09-2025 21:11,Solve Math Problem,"A card is drawn at random from a pack of 52. Find the probability it is (a) a heart, (b) a face card, (c) not a spade.",1983,1326,Success,
+37ba39a4-ac40-4b39-b7dc-0c9a058c71a4,29-09-2025 21:12,Solve Math Problem,Two coins are tossed. Find the probability of getting at least one head.,1279,697,Success,
+69711eb0-c866-4277-9ee6-0c70c1619b46,29-09-2025 21:12,Solve Math Problem,"If the mean of 5 numbers is 20, find their total sum.",817,636,Success,
+31a9d6b4-c5e9-4418-966f-b5c358576317,29-09-2025 21:13,Solve Math Problem,Find  sin â¡ ( 15 âˆ˜ ) using formulas.,1427,1025,Success,
+f1e19992-0aa7-4caf-b9ac-3968041cca75,29-09-2025 21:13,Solve Math Problem,Solve:  2 sinâ¡ ^2 ( ð‘¥ ) + cos â¡ ( ð‘¥ ) = 0 ,1396,1171,Success,
+43af4860-7532-4868-9c78-fbe4a01d45d4,29-09-2025 21:14,Solve Math Problem,"Find the general solution of  sin â¡ ( ð‘¥ ) = 1 2 sin(x)= 2 1 	â€‹  .",1318,843,Success,
+bf81f702-8d95-4add-9a14-76c91b51bc97,29-09-2025 21:14,Solve Math Problem,Find the general solution of  sin â¡ ( ð‘¥ ) = 1/2,1290,842,Success,
+ec8850d6-64ad-48a3-9524-3abc5c8260d4,29-09-2025 21:14,Solve Math Problem,Solve:  sin(x)=cos(x) for  0 âˆ˜ â‰¤ ð‘¥ â‰¤ 360,1125,801,Success,
+94375615-aa1d-42ee-817b-bb9aab6e606e,29-09-2025 21:15,Solve Math Problem,Solve:  sin(x)=cos(x) for  0 â‰¤ ð‘¥ â‰¤ 360,1222,942,Success,
+5fb29e80-b409-4d6b-bf32-2f89635888b7,29-09-2025 21:15,Solve Math Problem,A regular hexagon is inscribed in a circle of radius 10 cm. Find its perimeter.,2204,1076,Success,
+3b23ac34-8ffc-4cea-ae49-ea38f191037d,29-09-2025 21:15,Solve Math Problem,A rectangular tank measures 20 m Ã— 10 m Ã— 8 m. How many liters of water can it hold?,713,643,Success,
+a4c68869-68ab-4808-bc89-13aa92809847,29-09-2025 21:16,Solve Math Problem,"The sides of a triangle are 7 cm, 24 cm, and 25 cm. Find its area.",2111,1665,Success,
+cde8690a-8b50-4110-b9e8-38e8facf6286,29-09-2025 21:16,Solve Math Problem,Find the area of a rhombus whose diagonals are 12 cm and 16 cm.,938,650,Success,
+4d188579-f2ec-491e-a6d9-a25676472304,29-09-2025 21:17,Solve Math Problem,"Solve the system:  ð‘¥ + ð‘¦ + ð‘§ = 6 , 2 ð‘¥ âˆ’ ð‘¦ + 3 ð‘§ = 14 , ð‘¥ âˆ’ 2 ð‘¦ + ð‘§ = 1",2849,2322,Success,
+16496e68-c761-4f72-aeba-f73ef8484878,29-09-2025 21:17,Solve Math Problem,In how many ways can a committee of 3 men and 2 women be formed from 5 men and 4 women?,1432,885,Success,
+3bc59b32-dbbd-49a6-ba89-950021192535,29-09-2025 21:17,Solve Math Problem,A bag contains 10 balls numbered 1 to 10. Find probability of drawing a ball divisible by 3.,922,664,Success,
+7ab9fa4b-f4fd-4970-9df8-34adb851de3e,29-09-2025 21:17,Solve Math Problem,Find the number of ways to arrange the letters of â€œPROBABILITYâ€.,409,463,Success,
+fdf41f52-f5b8-4240-9ea0-fd1e3a5e379b,29-09-2025 21:18,Solve Math Problem,"A box contains 3 red, 4 blue, and 5 green balls. Three balls are drawn at random. Find probability all are different colors.",2134,1202,Success,
+7ea5052c-acfb-4cb5-8fac-06bdc806222b,29-09-2025 21:18,Solve Math Problem,"In a deck of 52 cards, find the probability of drawing 2 aces consecutively without replacement.",1173,639,Success,
+51d125bc-1c06-450c-95ce-796721204074,29-09-2025 21:18,Solve Math Problem,A coin is tossed 6 times. Find the probability of getting at least 4 heads.,1761,881,Success,
+a208b820-4cb7-451f-bd75-e3a3c3979675,29-09-2025 21:18,Solve Math Problem,Find the probability of drawing a king or a queen from a deck of 52 cards.,1132,827,Success,
+dd6eb8f0-d394-4e0a-b5d8-39695f6dbf86,29-09-2025 21:19,Solve Math Problem,Integrate:  âˆ«(2x 3 âˆ’x 2 +5)dx.,998,763,Success,
+39d728ff-f712-4166-828a-d05f92c0ad1a,29-09-2025 21:20,Solve Math Problem,Find the area under  ð‘¦ = ð‘¥ 2 y=x 2  from  ð‘¥ = 0 to  ð‘¥ = 3,934,780,Success,
+c8c8b132-7ef3-44eb-9ab5-e0eabee1ca2b,29-09-2025 21:20,Solve Math Problem,Find the area under  ð‘¦ = ð‘¥^2 y=x 2  from  ð‘¥ = 0 to  ð‘¥ = 3,1510,834,Success,
+b54a254e-6f78-47c6-bf01-97a50f1d30c8,29-09-2025 21:20,Solve Math Problem,Find the area under  ð‘¦ = ð‘¥^2  from  ð‘¥ = 0 to  ð‘¥ = 3,926,875,Success,
+5bc5bc26-ca41-4595-839c-c99e9d146755,29-09-2025 21:21,Solve Math Problem,Find the expected value of rolling a fair die.,1637,860,Success,
+f039fd9f-e89e-453f-b0eb-49e404f06435,29-09-2025 21:22,Solve Math Problem,How many 4-digit numbers can be formed using digits 1-9 without repetition?,1498,757,Success,
+47b273d3-c81e-4130-81b7-5736eac3041e,29-09-2025 21:23,Solve Math Problem,Find the critical points of  f(x)=x 3 âˆ’6x 2 +9x+2.,1206,765,Success,
+8ffff0d3-bf57-493f-919b-c19900763258,29-09-2025 21:23,Solve Math Problem,Find the critical points of  f(x)=x^3 âˆ’6x^2 +9x+2.,1420,774,Success,
+9fab4a6b-ce62-46f9-9367-ec3485306426,29-09-2025 21:25,Solve Math Problem,Solve for  ð‘¥ : 2sin^2 (x)âˆ’3sin(x)+1=0,1374,1017,Success,
+a75617a9-bd0c-413d-b2c9-44130d6130a7,29-09-2025 21:25,Solve Math Problem,"If  sin(Î¸)=4/5, find  cos(2Î¸).",652,635,Success,
+a38075ae-1a2a-4758-a3b8-ddf6b4e5b6e8,29-09-2025 21:27,Solve Math Problem,Find the slope of the tangent to  ð‘¦ = ð‘¥^3 âˆ’ 6 ð‘¥^2 + 9 ð‘¥ + 1 at x=2.,859,762,Success,
+28222955-e837-4dd8-85ba-1af2d0195fa9,29-09-2025 21:28,Solve Math Problem,"Find the maximum and minimum of  ð‘“ ( ð‘¥ ) = ð‘¥ 3 âˆ’ 3 ð‘¥ 2 + 4 f(x)=x 3 âˆ’3x 2 +4 on  [ 0 , 3 ] [0,3].",1672,981,Success,
+8b705e92-a4a9-4e11-aecb-f79bf6c48eec,29-09-2025 21:28,Solve Math Problem,"Find the maximum and minimum of  ð‘“ ( ð‘¥ ) = x^3 âˆ’3x^2 +4 on  [0,3].",1471,894,Success,
+60b4317f-3f64-40f8-8ddd-5fa93e1237ad,29-09-2025 21:28,Solve Math Problem,Two dice are rolled. Find the probability that the sum is a prime number.,1456,878,Success,
+7dcaf7d9-e0e9-4414-a5b5-5757c0edb69a,29-09-2025 21:29,Solve Math Problem,In how many ways can 6 people be seated around a circular table?,1302,34894,Success,
+846acad8-f5b7-46d6-9570-923d749ebcd2,29-09-2025 21:30,Solve Math Problem,How many 5-digit numbers can be formed using digits 1â€“9 such that the digits are in increasing order?,24328,41122,Success,
+e879877a-a671-48b3-a0f9-54e2945eb4c2,30-09-2025 09:16,Research & Latest Topics,What is the current inflation rate in the Eurozone and how does it compare to last year?,51,147297,Success,
+bd3264f4-29ca-40f2-adb2-6e36dca9ea78,30-09-2025 09:20,Research & Latest Topics,What are the advancements in HuggingFaceâ€™s transformer libraries?,51,173737,Success,
+f8f5810e-fafd-4087-98b2-fbad81366621,30-09-2025 09:24,Research & Latest Topics,What are the latest open-source LLM evaluation frameworks?,51,219291,Success,
+7e92a927-6a3c-41da-bec2-17a10fd19da1,30-09-2025 09:27,Research & Latest Topics,What are the newest features in AWS Lambda 2025?,51,180503,Success,
+dad1c2a1-526f-484c-8c87-6a1a0cffe9c4,30-09-2025 09:30,Research & Latest Topics,What new observability tools are trending in DevOps?,51,171583,Success,
+057a2319-cda5-41b9-913d-f6df035dfde1,30-09-2025 09:34,Research & Latest Topics,What is multimodal AI and what tools are available for it?,51,191238,Success,
+18df2ff7-c006-43f6-ba31-7e2446ee51d3,30-09-2025 15:05,Research & Latest Topics,What are the new WHO global health priorities for 2025?,51,148698,Success,
+0fdad27f-060f-43a4-a5ce-72d0b3ad7657,30-09-2025 15:11,Research & Latest Topics,What are the latest drug discoveries powered by machine learning?,51,164207,Success,
+ec840833-be38-4303-bf4f-fed45acc499e,30-09-2025 15:15,Research & Latest Topics,How is AI transforming mental health care delivery?,51,201425,Success,
+21774d0a-c67a-4d2c-adbf-869880de1cac,30-09-2025 15:32,Research & Latest Topics,What are the latest theories about dark matter?,51,120868,Success,
+7a39dab2-cb8f-4d9d-8024-c53a3318d964,30-09-2025 15:48,Solve Math Problem,How is AI integrated into consumer IoT devices?,2769,1133,Success,
+cfc2e821-3369-4e0b-b21d-2c2aa43f3093,30-09-2025 15:51,Research & Latest Topics,How is AI integrated into consumer IoT devices?,51,160568,Success,
+a3522de5-2ded-4c21-9ca6-1c1198842edb,30-09-2025 15:53,Research & Latest Topics,What are the latest VR headset releases this year?,276,144228,Success,
+8127dcc7-e915-4a27-acfc-e7ffafee7013,30-09-2025 16:02,Solve Math Problem,Solve the inequality  2 ð‘¥ âˆ’ 7 < 5 ð‘¥ + 1,1092,774,Success,
+5c9b98ea-ab8e-4a93-bf8b-d284a3c248f0,30-09-2025 16:02,Solve Math Problem,"If  ð‘Ž + ð‘ = 7 a+b=7 and  ð‘Ž ð‘ = 10 ab=10, find  ð‘Ž 2 + ð‘ 2 a 2 +b 2 .",653,723,Success,
+627b0ac6-7aec-4b3a-bb04-3d3ae83d9cb2,30-09-2025 16:03,Solve Math Problem,"If  a+b=7 and ab=10, find  ð‘Ž^2 + ð‘^2 ",701,726,Success,
+ad561cd4-103f-4141-8059-8abd4d757c0e,30-09-2025 16:03,Solve Math Problem,The variance of a dataset is 25. Find its standard deviation,591,500,Success,
+e641b30a-30b1-4628-8d2d-03800ac1af25,30-09-2025 16:03,Solve Math Problem,Find the probability of getting at least one ace when two cards are drawn from a standard deck.,1881,1057,Success,
+1299f3a2-5f33-49b7-803f-67b66ec64632,30-09-2025 16:04,Solve Math Problem,"If the mean of 5 numbers is 18, find their sum.",791,683,Success,
+d1db04af-21e9-4a30-81d5-54dd1cb90568,30-09-2025 16:04,Solve Math Problem,A die is rolled twice. Find the probability that the sum is greater than 10.,1727,3955,Success,
+bdc8eab8-07d0-4cf2-a53a-813b08483fe8,30-09-2025 16:05,Solve Math Problem,Find the maximum and minimum of  f(x)=x 3 âˆ’6x 2 +9x+1.,2104,1453,Success,
+6909a61e-bd1e-4c44-b060-f2c6826a4836,30-09-2025 16:05,Solve Math Problem,Find the maximum and minimum of  f(x)=x^3 âˆ’6x^2 +9x+1.,2069,1202,Success,
+204a26ee-e67e-4010-aafb-03ec56dd4639,30-09-2025 16:05,Solve Math Problem,"Prove that if  ð‘Ÿ r is a rational root of a monic polynomial with integer coefficients, then  ð‘Ÿ r is an integer. (Rational Root Theorem application)",1130,982,Success,
+c4c24ac0-964f-45be-958d-81d296fb38bb,30-09-2025 16:06,Solve Math Problem,Find all complex roots of  ð‘§^4 + 16 = 0,1484,1126,Success,
+f52eaab0-dfcc-4d5f-884b-bd6513649a5d,30-09-2025 16:07,Solve Math Problem,Use Taylor series to approximate  sin â¡ ( ð‘¥ ) sin(x) around  ð‘¥ = 0 x=0 up to  ð‘¥ 5 x 5  terms and estimate error for  ð‘¥ = 0.5 x=0.5.,1822,1705,Success,
+581bc12d-aeda-43aa-b8b0-5ee6cf9dddf2,30-09-2025 16:07,Solve Math Problem,Use Taylor series to approximate  sin(x) around  ð‘¥ = 0 up to  ð‘¥^5 terms and estimate error for  ð‘¥ =0.5.,2132,1787,Success,
+b9770aa8-d2d2-4285-935d-0d8be861ce10,30-09-2025 16:08,Solve Math Problem,Solve  ð‘§ 3 = 8 ð‘– z 3 =8i and express roots in polar form,1839,1307,Success,
+4717a1c8-6b23-47c3-abf4-5f7ca581e2e9,30-09-2025 16:08,Solve Math Problem,Solve  ð‘§ ^ 3 = 8 i and express roots in polar form,1895,1289,Success,
+fbdfc84c-00cd-4446-b5e2-f16c08b397b4,30-09-2025 16:09,Solve Math Problem,Solve for vector x in least squares sense for an overdetermined system  ð´ ð‘¥ = ð‘,2068,1198,Success,
+8e4c00a4-9b40-45ea-81be-fa4e5948ef2a,30-09-2025 16:09,Solve Math Problem,Show that similar matrices have same eigenvalues and trace.,1876,1286,Success,
+1023d3a5-c183-44d3-82fa-ec81db53b5c0,30-09-2025 16:10,Solve Math Problem,"Count the number of distinct 10-letter strings using letters A,B,C if letters may repeat but must contain at least one A",1415,931,Success,
+f1f84c36-903a-4144-9b4f-c1e7b1372bde,30-09-2025 16:10,Solve Math Problem,How many ways to choose a committee of 4 from 10 people if two specific people cannot both be on the committee?,1653,842,Success,
+367d4987-e080-4fc4-aaaa-1471032448f8,30-09-2025 16:10,Solve Math Problem,Prove that every tree with  ð‘› n vertices has exactly  ð‘› âˆ’ 1 edges,1809,1115,Success,
+78bb2563-0899-486c-b7cf-0c641e7c8936,30-09-2025 16:11,Solve Math Problem,Find the greatest common divisor (GCD) of 252 and 198 using the Euclidean algorithm,1180,718,Success,
+469d13a6-7125-496e-ae98-72ccc5301ea7,30-09-2025 16:12,Solve Math Problem,A fair die is rolled until a 6 appears. Find the expected number of rolls,1771,875,Success,
+dd3143ea-8c8c-4890-b3c3-963160c0c61d,30-09-2025 16:12,Solve Math Problem,Two random variables have covariance 0. Show whether they are independent. Give counterexample if not.,1828,970,Success,
+b929cbe3-5dfa-4473-8b05-02db58de52cb,30-09-2025 16:12,Solve Math Problem,Find the number of diagonals in a convex polygon with 15 sides.,1120,689,Success,
+cc3ac17e-7d97-4818-ab98-9112ea59f9dc,30-09-2025 16:12,Solve Math Problem,"A box contains 8 red, 6 blue, and 4 green balls. If 3 are chosen at random, what is the probability all are different colors?",1594,912,Success,
+b1d4b8ad-c564-4a8e-b3ac-700dc0a528da,30-09-2025 16:13,Solve Math Problem,A salesman must visit 5 cities. In how many distinct routes can he travel if he starts and ends at the same city?,3209,1599,Success,
+95af108d-c942-4a11-a3b7-488a98286609,30-09-2025 16:14,Solve Math Problem,Prove that  2 ^1/2  is irrational using contradiction.,1642,975,Success,
+7dfddb9d-72c3-46f6-9ab6-2cf15eb65766,30-09-2025 16:14,Solve Math Problem,A biased coin has probability 0.6 for heads. What is the probability of exactly 4 heads in 6 tosses?,1509,1010,Success,
+7b48e6ff-3037-43bf-b347-af6e581d7bab,30-09-2025 16:14,Solve Math Problem,"Using Eulerâ€™s formula, show that any planar connected graph satisfies  ð‘‰ âˆ’ ð¸ + ð¹ = 2",2955,2019,Success,
+ed7d873b-8e85-4251-87e9-9f2394c9107d,30-09-2025 16:15,Solve Math Problem,A fair die is rolled until a 6 appears. Find the expected number of rolls,3646,2161,Success,
+a56d5366-d325-4a75-948e-ae14f11f5d87,30-09-2025 16:17,Solve Math Problem,Solve for x:  5 ^ (ð‘¥ + 1) = 125,464,576,Success,
+afa6cd33-8ecc-4149-8d0f-5b035e05d3ff,30-09-2025 16:18,Solve Math Problem,"Prove that if a sequence is bounded and monotonic, then it converges.",3469,1460,Success,
+96e53e95-0983-41b6-a5f6-95f0d62686ca,30-09-2025 16:19,Solve Math Problem,Solve the differential equation:  ð‘¦^n + ð‘¦ =sin(x).,4795,2022,Success,
+a425b98c-5d21-446a-aa2b-d16e86195d4c,30-09-2025 16:20,Solve Math Problem,"Find shortest distance from point (1,2,3) to plane  2x+3y+6z=12.",1042,980,Success,
+0e0926e9-6f4d-4c6c-ad14-f71ab52b08db,30-09-2025 16:20,Solve Math Problem,"Find equation of a plane passing through (1,2,3) and perpendicular to vector (2,-1,4).",2683,1782,Success,
+859daf51-21d9-482b-891a-51a2771e2455,30-09-2025 16:21,Solve Math Problem,"Find Fourier series expansion of  ð‘“ ( ð‘¥ ) = ð‘¥ in (âˆ’Ï€,Ï€).",2318,1615,Success,
+f25a252a-45a9-4de1-ac76-e686f6cc6be8,30-09-2025 16:41,PDF Q&A,"What does the author call the ""New Age CFO",84,28359,Success,
+c41b9c31-3bb4-4ce0-af34-95a3cee71d51,30-09-2025 16:41,PDF Q&A,"Describe the fundamental shift the book argues must occur in the CFO's role in the Information Age. What historical image must they move beyond, and what new strategic responsibilities must they embrace?",1737,994,Success,
+4fde25a4-f05b-43cb-8aa9-0c908b9921d0,30-09-2025 16:42,PDF Q&A,"How is a finance leader a ""strategic force multiplier",1533,927,Success,
+3d8396d3-bcc2-499b-9bbb-69e74cffbff0,30-09-2025 16:42,PDF Q&A,"Why does the book assert that finance leaders, rather than IT, are in a prime position to champion the necessary organizational and cultural transformation needed to succeed with data and analytics?",2092,1113,Success,
+9a809758-6e5a-4ce8-8876-d480ede4bb04,30-09-2025 16:42,PDF Q&A,What is the significance of the CFO in ensuring data democratization?,1278,748,Success,
+2c141962-d921-4049-b0bf-57fc14e51fc1,30-09-2025 16:43,PDF Q&A,The author cautions CFOs to embrace digitization and analytics rather than letting what specific fear hold them back? What are the dangers for the organization if the CFO is reluctant to adopt new technologies?,1842,999,Success,
+40fac564-d79c-4028-b632-844a19190366,30-09-2025 16:43,PDF Q&A,What is the core difference between a CFO who looks backward versus one with an innovative mindset?,1171,730,Success,
+ef315f4f-0edd-4159-850e-cd2f317dfb66,30-09-2025 16:43,PDF Q&A,How should CFOs handle the historical view of their role as fastidious accounting clerks detached from operational divisions? How can they bridge this gap and what operational data should they be focused on?,2406,1183,Success,
+3d89ee7d-5603-4f8a-92ef-2427bf62cc07,30-09-2025 16:43,PDF Q&A,What does the author describe as the ultimate goal of the finance function: historical reporter or forward-looking strategist?,433,580,Success,
+9665961f-8a14-4343-9033-8b2391d274c0,30-09-2025 16:44,PDF Q&A,What advice does the book give for ensuring the finance team has the right skills and mindset for the future? How can a finance leader instill a data-driven culture and address potential resistance to learning new tools?,1751,942,Success,
+8c1078ea-104d-40a9-b519-98cd77a1b758,30-09-2025 16:44,PDF Q&A,"What are the ""Four Stages of Digital Transformation"" mentioned in the book?",444,631,Success,
+6a319455-6491-4009-b17f-6aef2e534595,30-09-2025 16:44,PDF Q&A,"The book emphasizes that technology is already here. If the technology isn't the main obstacle, what is? Discuss the role of people, process, and organizational structure in making or breaking a digital transformation.",3241,1286,Success,
+07200050-a404-4a43-80ad-ac5fa5c286a0,30-09-2025 16:44,PDF Q&A," What is the ""grunt work"" that serves as a fundamental first step in transformation?",183,500,Success,
+acec7b67-956e-4a5b-8ec6-0c2ba2fd9b65,30-09-2025 16:46,PDF Q&A,Why is optimizing existing processes considered a critical first step that many companies often skip in a digital transformation? Detail the risks associated with simply automating an inefficient manual process.,2764,1215,Success,
+37c7c212-021e-4697-a7ca-f6a4115a8fb2,30-09-2025 16:48,PDF Q&A,What is the benefit of having a centralized system with clean data when a company is looking to be acquired?,1671,950,Success,
+38fe2ae9-8270-4871-90de-9872479bbc03,30-09-2025 16:49,PDF Q&A,"What are the key components of a strong ""finance transformation pitch"" to a CEO?",2418,1301,Success,
+72655420-6784-4b64-b325-22bed48eff0b,30-09-2025 16:49,PDF Q&A,"The book connects historical technological advancements in accounting (like the printing press) to the current need for digital transformation. Draw a parallel between a past major innovation and the current shift toward automation. What is the fundamental, enduring purpose of these technological advances in finance?",2433,1269,Success,
+f4cdc43e-da12-4fce-a511-a8a31ad671e0,30-09-2025 16:49,PDF Q&A,"Explain the author's personal catalyst for becoming passionate about finance automation. How did this ""catastrophe"" illustrate the fragility and danger of reliance on outdated manual systems?",963,785,Success,
+df58ba18-ce6f-4fe1-bc8d-8e92b07eb286,30-09-2025 16:51,PDF Q&A,How does the book define Robotic Process Automation (RPA) in simple terms?,247,494,Success,
+ff6c7620-0c01-4c58-b2fa-914d7aa24688,30-09-2025 16:51,PDF Q&A,"What are the key benefits of finance automation as they relate to manual processes, data entry errors, and human bias? How does automation enhance the audit trail and compliance?",1565,962,Success,
+3f379016-b212-4ad2-8bf0-365cc9b9d595,30-09-2025 16:51,PDF Q&A,How does automation support a move toward continuous accounting?,1921,901,Success,
+fd6e7f0b-f4a5-4bbf-a3d6-f190e45012f4,30-09-2025 16:51,PDF Q&A,"How can financial automation, even without a major new ERP system, be implemented to achieve a fast turnaround time? What is the book's suggested path for achieving quick, demonstrable value?",1423,1149,Success,
+6d94c46d-24b4-4a70-9c94-ab43575c7326,30-09-2025 16:51,PDF Q&A,"What is the definition of ""managing by exception""?",486,603,Success,
+606dedb8-75ad-4ce6-96a1-01e862d0deb6,30-09-2025 16:52,PDF Q&A,"What is the most common danger of implementing financial automation, and how should leaders address it? (Hint: It relates to automating bad processes.)",1866,993,Success,
+7816aa10-72b2-44bc-944b-d5c8117a655d,30-09-2025 16:52,PDF Q&A,What is the role of cloud computing in enabling the shift toward automation and ML?,2066,941,Success,
+e57c87a0-fa3c-41fd-8176-d084d7782fde,30-09-2025 16:52,PDF Q&A,"Why does the book emphasize that manual processes are not scalable? Contrast the limitations of a manual system with the scalability of a modern, automated, and cloud-based alternative.",2230,1332,Success,
+c472de3d-d0c3-41cd-b1be-ff547503b452,30-09-2025 16:52,PDF Q&A, How can simply automating parts of your process help a company scale faster?,1778,982,Success,
+132dcb0d-6939-4a6d-afdb-c64989762ebb,30-09-2025 16:52,PDF Q&A,"The author describes a period where his team built a fully connected, automated system. What kind of comprehensive, real-time access to information did this system give them, and how did it change their decision-making process?",1037,741,Success,
+a901824b-b146-47e5-9761-84c3b2715377,30-09-2025 16:53,PDF Q&A,Who must take ownership of the vision when starting a digital transformation?,210,527,Success,
+5b71c15a-6ad1-4c77-84db-681da977ce96,30-09-2025 16:53,PDF Q&A,What is the most effective way to address the concerns of employees who fear being replaced by robots? How should the CFO reframe the discussion about their roles?,2861,1362,Success,
+dca00017-00a0-4abc-9fb6-21df39c3f7c2,30-09-2025 16:53,PDF Q&A,What is the benefit of starting small when pitching finance automation to the team?,79,517,Success,
+6e71a88b-9098-4efc-8309-291d1f124282,30-09-2025 16:53,PDF Q&A,"Why is it necessary to conduct an audit of everyone's processes and ""speak their language"" at the beginning of the digital transformation? How does this initial step build trust and buy-in?",1691,897,Success,
+700e4750-ab23-4b4c-b370-f46bd533d758,30-09-2025 16:54,PDF Q&A," What ""practical element"" (like a story about a helpful spreadsheet) can be used to establish a data-driven culture?",1977,1108,Success,
+47b5322b-2622-42f6-a15b-5f63e4d0ab05,30-09-2025 16:54,PDF Q&A,How should finance leaders respond to the most cynical team members who are waiting for roadblocks to pop up? What strategies can be used to maintain momentum and confidence?,1977,1023,Success,
+70547aa6-d7bc-41fb-88e6-2e32c7c60cf2,30-09-2025 16:54,PDF Q&A,"What are the key players (e.g., CEO, data scientist) who support the CFO?",2251,982,Success,
+88560b14-3b0f-4d09-b604-3acd4ed3462e,30-09-2025 16:54,PDF Q&A,"What specific advice is given for pitching automation to the CEO, especially if the CEO has relied on ""hunches"" and intuition in the past? How should the CFO frame the return on investment (ROI)?",263,2627,Success,
+f951820b-4cfb-4a46-b973-e894a39bc90e,30-09-2025 16:55,PDF Q&A,Why is being a great communicator considered as important as any technical skill for a finance leader?,161,4573,Success,
+ba3990b5-6c5d-4e8e-ac3c-af8a1c651bb4,30-09-2025 18:18,Research & Latest Topics,How is ChatGPT being integrated into enterprise solutions?,51,138615,Success,
+878b7dc1-174c-4176-ac43-9cdfcfdce7ba,30-09-2025 18:21,Research & Latest Topics,What are the newest breakthroughs in machine learning?,457,103730,Fail,429
+5df3d07e-7d01-4495-a79d-953ec85a1cf3,30-09-2025 18:22,Research & Latest Topics,What are the current interest rates in the US for September 2025?,460,51648,Fail,429
+84f346bc-2f1b-49a0-8eb2-00eac12e4ac0,30-09-2025 18:26,Research & Latest Topics,What are the latest updates on global human rights issues?,456,40794,Fail,429
+a7e97f22-3880-4c85-9fcc-707fb0bcf9bc,30-09-2025 18:31,Research & Latest Topics,What are the latest breakthroughs in electric vehicles?,455,2456,Fail,429
+ec3666da-679e-4dda-b030-b5850b8c62f8,30-09-2025 18:33,Research & Latest Topics,What are the recent extreme weather events worldwide?,461,8543,Fail,429
+b722e7d2-88d5-4bf7-8ca2-773006da749b,30-09-2025 18:39,Research & Latest Topics,What are the most popular video games of 2025?,456,2772,Fail,429
+ed0f2b53-95c0-41d8-a1c8-2179014cce87,30-09-2025 18:42,Research & Latest Topics,Who won major eSports tournaments recently?,461,30001,Fail,429
+3905b2d2-3609-4961-a8fb-4d84d8b6abdc,30-09-2025 18:43,Research & Latest Topics,Who are the current world leaders in 2025?,456,82,Fail,429
+49d8e75c-7fb1-4dd0-b366-41945893b547,30-09-2025 18:43,Research & Latest Topics,What recent elections had surprising results?,455,137,Fail,429
+391dddfc-23c0-42c6-a643-4734fd300c83,30-09-2025 18:44,Research & Latest Topics,What are the latest updates on global human rights issues?,454,58366,Fail,429
+77cf0319-229c-478e-8889-fbbade7dfabb,30-09-2025 18:44,Research & Latest Topics,What are the top podcasts for tech and finance?,455,84,Fail,429
+79c28984-a737-4b01-acab-c454a4a94dde,30-09-2025 18:44,Research & Latest Topics,What are the current trends in remote work technologies?,456,140,Fail,429
+496467cc-01fd-49a8-822a-6ade3456c47c,30-09-2025 18:46,Research & Latest Topics,What are the latest trends in artificial intelligence in 2025?,455,35387,Fail,429
+071d8d15-d291-48db-8bd9-a47d4b3f69ff,30-09-2025 18:46,Research & Latest Topics,Which companies are pioneering robotics innovations?,461,166,Fail,429
+e79321bb-c6c2-4a00-9bcb-223772c09e23,30-09-2025 18:47,Research & Latest Topics,How is AI being applied in agriculture this year?,456,136,Fail,429
+09bf8ce9-2d9c-4ec8-8222-56ffe784846f,30-09-2025 18:47,Research & Latest Topics,What is the latest on global debt markets?,461,170,Fail,429
+ec1e5bd7-a2d4-4e80-a488-df3b6e5c0b2e,30-09-2025 18:47,Research & Latest Topics,What are the current trends in personal finance apps?,456,102,Fail,429
+126e3a3b-6a32-4cb8-8ca7-85b186b02876,30-09-2025 18:49,Research & Latest Topics,How are 3D-printed organs being developed?,455,41411,Fail,429
+ddd050c6-7138-4f53-9fc2-eace3b774fc7,30-09-2025 18:49,Research & Latest Topics,What are the new advances in regenerative medicine?,461,106,Fail,429
+ce914fcb-8aef-490e-bf34-4f3a8e79d990,30-09-2025 18:51,Research & Latest Topics,What are the current trends in public health policies?,461,1730,Fail,429
+0e92f34d-dbf1-43e0-b015-beabd5af6639,30-09-2025 18:51,Research & Latest Topics,What are the latest renewable energy projects?,456,75,Fail,429
+a4f6a3de-c59c-48ee-9b8e-548c78ca0fac,30-09-2025 18:51,Research & Latest Topics,What are the current trends in wind energy?,456,141,Fail,429
+fec24a6a-5fbf-4c24-8fa3-5df3f32f99ed,30-09-2025 18:51,Research & Latest Topics,Which cities are leading in green urban planning?,456,122,Fail,429
+af20e887-b7b5-4269-9c05-412196934ad1,30-09-2025 18:51,Research & Latest Topics,How is climate change affecting agriculture in 2025?,456,73,Fail,429
+bce895c1-b571-4fdf-a87c-9707dcd54661,30-09-2025 18:51,Research & Latest Topics,Which countries are investing in hydrogen energy?,460,74,Fail,429
+591cdea4-c266-408e-b504-0147d1bd8e73,30-09-2025 18:53,Research & Latest Topics,How is AI being used in environmental monitoring?,456,55348,Fail,429
+1274ce20-5025-4860-a1af-4c102527eebe,30-09-2025 18:53,Research & Latest Topics,What are the latest ocean conservation initiatives?,461,71,Fail,429
+56eb64db-99ca-4991-b3f2-dc22bdc1085d,30-09-2025 18:55,Research & Latest Topics,What are the latest findings about black holes?,456,1461,Fail,429
+553b8673-959a-4cca-b05d-a7f65dc231c9,30-09-2025 18:55,Research & Latest Topics,What are the trends in satellite internet services?,455,77,Fail,429
+febbc960-685c-4f5c-86d1-e9c4df47f2f5,30-09-2025 18:56,Research & Latest Topics,How is international collaboration evolving in space exploration?,461,1401,Fail,429
+55bd4594-04a1-49f6-9dc0-b93aea6d7b92,30-09-2025 19:06,Research & Latest Topics,Upcoming space missions?,456,4987,Fail,429
+e115afee-a3fa-450d-b0f8-c83038e7ab82,30-09-2025 19:06,Research & Latest Topics,Global space collaboration?,455,10192,Fail,429
+e6fdb78e-45d6-4081-961d-d2dbd92b6513,30-09-2025 19:07,Research & Latest Topics,NASA missions?,455,167,Fail,429
+43d937d5-8cee-4c18-96fa-9dbcd5edaebe,30-09-2025 19:07,Research & Latest Topics,Climate migration updates?,460,65,Fail,429
+bcf34337-f39f-4a65-962b-7348fe26b855,30-09-2025 19:09,Research & Latest Topics,Reforestation projects?,456,6455,Fail,429
+50c952ac-0c6c-457d-99d7-db03c6ebb0ba,30-09-2025 19:10,Research & Latest Topics,Hydrogen energy projects?,456,69,Fail,429
+1b23e92d-f422-427f-9824-26b890daf6ba,30-09-2025 19:11,Research & Latest Topics,Asteroid mining news?,455,61339,Fail,429
+1ccb324c-d489-4b37-be1b-1055d6030a55,30-09-2025 19:11,Research & Latest Topics,Rocket launch news?,461,71,Fail,429
+3214f9ca-2ae8-4c22-86f3-0d26cca4ecf3,30-09-2025 19:11,Research & Latest Topics,Space tourism updates?,456,98,Fail,429
+56d26aff-584b-4e66-89a2-7c5d15662890,30-09-2025 19:11,Research & Latest Topics,AI in astronomy?,455,83,Fail,429
+7440b9fd-d431-4a97-8548-2d3ff4e6b9ea,30-09-2025 19:12,Research & Latest Topics,Top space research papers?,456,51331,Fail,429
+7b6751c5-282c-48e2-aad0-c44c25c85663,30-09-2025 19:12,Research & Latest Topics,Solar physics news?,456,79,Fail,429
+2adfa93f-fe20-4a28-89c8-43279f2eabc6,30-09-2025 19:13,Research & Latest Topics,Space conferences?,456,187,Fail,429
+2987fb6b-669d-4d90-9b3b-d5262556f428,30-09-2025 19:13,Research & Latest Topics,Lunar base projects?,455,108,Fail,429
+dd8fc80f-4685-46bd-9307-9619624a015b,30-09-2025 19:14,Research & Latest Topics,Satellite launches?,456,50210,Fail,429
+36aa8951-3c5c-445d-a2fd-11b7ce44ce1e,30-09-2025 19:14,Research & Latest Topics,Exoplanet discoveries?,456,96,Fail,429
+3186b6ab-7ec7-43ca-8c6a-7feb398898e5,30-09-2025 19:15,Research & Latest Topics,Space conferences?,455,8528,Fail,429
+2ec4b86c-594a-4b71-aa3c-addb894a242b,30-09-2025 19:15,Research & Latest Topics,Ocean conservation updates?,456,150,Fail,429
+3f8f0cd6-beac-44c1-a63b-6ee2200d0651,30-09-2025 19:16,Research & Latest Topics,AI in environmental monitoring?,456,77,Fail,429
+cc6dcc07-5c71-44c5-ac6b-7d97fc04155e,30-09-2025 19:16,Research & Latest Topics,Recycling tech news?,456,122,Fail,429
+19c35fff-e6c5-4f84-9b43-26258c4b59ab,01-10-2025 11:11,Solve Math Problem,"Solve logic puzzle: If Pâ†’Q is true, P is false, what about Q?",958,735,Success,
+4e96c516-4ad6-4dc7-a80b-d641faba6118,30-09-2025 19:29,Solve Math Problem,Solve for integer  ð‘¥ x: 3x+7â‰¡2(mod11).,1843,55464,Success,
+1cb6fb5a-4d3a-4ca4-ad5a-1e20b868f634,30-09-2025 19:29,Solve Math Problem,Find all prime numbers p such that p+2 is also prime.,455,131,Fail,500
+487a89c9-026e-42d3-8bf7-51f8fb335a62,30-09-2025 19:31,Solve Math Problem,Find all prime numbers p such that p+2 is also prime.,2970,1594,Success,
+0b3083c0-f9ee-4961-8794-406bbb7b488d,30-09-2025 19:31,Solve Math Problem,Two independent events have probabilities 0.3 and 0.4. Find the probability that exactly one occurs.,454,140,Fail,500
+9a3c5e59-3a3d-4b2f-8a85-27c174390b52,30-09-2025 19:34,Solve Math Problem,"In a class of 30 students, probability at least two share the same birthday?",2188,13139,Success,
+f0b1136e-b9a0-4f7c-87d1-0f8cf09f9fb1,30-09-2025 19:35,Solve Math Problem,Find critical points and classify  ð‘“ ( ð‘¥ ) = ð‘¥^3 âˆ’ 3 ð‘¥^2 + 4,2067,11104,Success,
+73224850-bd2c-4b31-b9e3-284afc094c25,30-09-2025 19:36,Solve Math Problem,"Two cards drawn from a deck, probability both are kings?",455,109,Fail,500
+4f3ee998-0e5f-4194-8806-439eb361bad0,30-09-2025 19:37,Solve Math Problem,"Three dice rolled, probability sum = 15?",2421,17478,Success,
+372fc52a-b497-4852-a1d6-ee9883daf261,30-09-2025 19:38,Solve Math Problem,"A coin tossed 5 times, probability exactly 3 heads?",455,77,Fail,500
+1802a9bd-e37d-4d9a-aec8-6da8d91e6aa1,01-10-2025 11:15,Research & Latest Topics,Who is the current Finance Minister of India?,60,9201,Success,
+19cad793-7f91-4a99-8d8f-ae5a10484dc3,01-10-2025 11:24,Research & Latest Topics,What is the latest GDP growth rate of India?,4,129659,Success,
+050374bb-2ea6-4180-958c-295638af1d17,01-10-2025 11:25,Research & Latest Topics,Who is the current CEO of Google?,14,37553,Success,
+c4fef413-1101-4c25-93f7-067eb29998a5,01-10-2025 11:26,Research & Latest Topics,Who won the most recent Oscars Best Picture award?,5,68434,Success,
+464b2b0b-0292-4450-b8ff-d62f5ee5eb99,01-10-2025 11:39,Research & Latest Topics,What is the current population of China,196,405651,Success,
+6d31f650-2837-4a03-af15-43b4da32bed1,01-10-2025 12:06,Research & Latest Topics,Who are the top 3 electric vehicle manufacturers?,454,341620,Fail,429
+e7f8c9df-e664-440f-ba2f-e70910b63a9b,01-10-2025 12:13,Research & Latest Topics,Which country is leading in AI research?,56,33171,Success,
+a878c854-1321-40de-9395-597496cccd53,01-10-2025 12:17,Research & Latest Topics,What is the current status of oil prices per barrel?,121,78332,Success,
+7ce45c07-74ef-447e-a1f6-7b204697033e,01-10-2025 12:19,Research & Latest Topics,Who won the most recent Grammy for Best Album?,50,87947,Success,
+10b72e6f-a15b-498b-a25b-dc1741c10b62,01-10-2025 12:21,Research & Latest Topics,Who are the top 5 fastest athletes in the world right now?,724,149569,Success,
+076b91fd-6204-40d5-81a9-1c9ea9f0ba18,01-10-2025 12:22,Research & Latest Topics,What is the latest version of Android OS?,74,7964,Success,
+f40db9e6-d441-4cda-9161-18586c5867c5,01-10-2025 12:23,Research & Latest Topics,Who are the top 3 cloud service providers today?,457,42620,Fail,429
+7211ddfd-9a66-42d6-a104-11f76f403bd6,01-10-2025 12:33,Research & Latest Topics,What is the current literacy rate of India?,457,10011,Fail,429
+fca76cdf-50be-487b-b4f6-0567cd9da149,01-10-2025 12:37,Research & Latest Topics,Who won the last Olympic 100m race?,457,5555,Fail,429
+abe1f920-99e1-4f8e-a5c1-c60c1dd7c461,01-10-2025 12:55,Research & Latest Topics,Who is the CEO of OpenAI right now?,457,9102,Fail,429
+3ce0ab0e-dd8a-4a48-ae12-ddd47b0144b6,01-10-2025 12:59,Research & Latest Topics,What is the current population of Africa?,457,8448,Fail,429
+ab0172b7-5dae-49ff-9284-71cf2b0f6645,01-10-2025 13:07,Research & Latest Topics,What are the top 5 AI tools in use today?,455,10480,Fail,429
+ce2b2e6a-fb05-4bca-8b66-6e541e1b03dc,01-10-2025 13:18,Research & Latest Topics,What are the top 5 AI tools in use today?,456,3375,Fail,429
+cfd92c61-f2bc-411a-8f10-53b6f20519ff,01-10-2025 13:23,Research & Latest Topics,Who are the top 3 social media influencers in the world?,457,8553,Fail,429
+8f0a5d04-7460-4457-8d64-0c2f24312e34,01-10-2025 13:24,Research & Latest Topics,Who is the current CEO of Microsoft?,456,61,Fail,429
+99f540ad-7e2d-4063-bd1f-68dc5f1c72ec,01-10-2025 13:27,Research & Latest Topics,What is the most spoken language in the world right now?,462,4367,Fail,429
+8681ae96-97ff-47e8-9453-6417796b31af,01-10-2025 13:27,Research & Latest Topics,What is the current market value of Apple Inc.?,456,6262,Fail,429
+5413f162-ed0d-4687-9880-17f40488e42e,01-10-2025 13:27,Research & Latest Topics,Who are the top 10 richest Indians right now?,461,69,Fail,429
+4158ef11-1c3d-400c-b87b-8c98b11f53b6,01-10-2025 13:27,Research & Latest Topics,What is the current population of Africa?,461,75,Fail,429
+16985b1f-f0b4-4ff9-870a-ba6ae4a5ad1a,01-10-2025 13:28,Research & Latest Topics,What is the latest record high of the S&P 500 index?,455,110,Fail,429
+5b01e110-362f-4bc6-97de-616336b2e54a,01-10-2025 13:29,Research & Latest Topics,What is the most popular programming language in 2025?,456,59762,Fail,429
+8dc4b51c-b3f5-4060-b577-2316fd87757e,01-10-2025 13:50,Research & Latest Topics,What is the current interest rate set by the US Federal Reserve?,458,18995,Fail,429
+61023534-e9f7-46a8-86e1-5ec188fa4ce0,01-10-2025 14:06,Research & Latest Topics,What is the most expensive stock in the world today?,456,103,Fail,429
+8cce62cb-b61c-4d88-97de-d9428331f460,01-10-2025 14:09,Research & Latest Topics,What are the latest developments in the conflict in Ukraine as of today?,456,15029,Fail,429
+2976d171-a873-4a39-964c-5c6eb43789d6,01-10-2025 14:09,Research & Latest Topics,Summarize the key policy points of the leading candidate in the upcoming US election.,456,100,Fail,429
+7d724d33-1b8a-4a47-a067-0ab19dffef82,01-10-2025 14:10,Research & Latest Topics,What is the current status of the global chip shortage and its impact on the auto industry?,456,120,Fail,429
+169904fd-c7fd-44d7-a54e-7fdf0dc0c1d9,01-10-2025 14:10,Research & Latest Topics,Explain the concept of 'Agentic AI' and provide a real-world example from 2024/2025.,456,118,Fail,429
+9e9e3527-b3ec-4103-b3eb-b48ea08a7080,01-10-2025 14:11,Research & Latest Topics,Detail the challenges and limitations currently facing the deployment of AI agents in enterprise production.,457,59865,Fail,429
+cd6eb7d6-f655-4b35-be8b-106f5c6ea9c7,01-10-2025 14:11,Research & Latest Topics,Compare Cache-Augmented Generation (CAG) with Retrieval-Augmented Generation (RAG).,456,172,Fail,429
+8c656ada-b340-4364-9ef2-756a5c08a868,01-10-2025 14:20,Research & Latest Topics,What is the formula for water?,455,7231,Fail,429
+49f765ba-1e35-4baf-900f-fc6410bdb7c9,01-10-2025 14:21,Research & Latest Topics,What year was the United Nations established?,461,47798,Fail,429
+ba2e8384-b630-4f55-b06a-3cb03f04baec,01-10-2025 14:22,Research & Latest Topics,What Renaissance artist painted the Sistine Chapel ceiling?,457,7497,Fail,429
+9a74e49e-592d-467a-b0ba-87cf534e928a,01-10-2025 14:23,Research & Latest Topics,How many faces does a Dodecahedron have?,455,38898,Fail,429
+84aed71d-fc52-4b4b-9e9b-5e2a76a8870a,01-10-2025 14:24,Research & Latest Topics,What phone company produced the 3310?,456,13864,Fail,429
+3c9e99ee-9b1a-4fe8-aeae-9ecac2822435,01-10-2025 14:25,Research & Latest Topics,What massive global infrastructure project is China carrying out over the past two decades?,461,47447,Fail,429
+b151df75-2fc1-4795-9d6c-b7ae10370ec8,01-10-2025 14:27,Research & Latest Topics,Can online education be as effective as traditional classrooms?,457,61589,Fail,429
+db4dc628-2678-4920-bf79-dfd225ceb999,01-10-2025 14:27,Research & Latest Topics,What is the capital city of Australia?,460,79,Fail,429
+54ce6bde-5b0f-41a5-ba9d-5014d71492f1,01-10-2025 14:28,Research & Latest Topics,What is the scientific theory that explains the origin of the universe?,455,53063,Fail,429
+533d8d3b-3991-400b-8b25-184ab9f1e3a5,01-10-2025 14:28,Research & Latest Topics,What is the largest organ in the human body?,456,102,Fail,429
+37ddebeb-d2f2-469c-935d-75938eb91517,01-10-2025 14:29,Research & Latest Topics,What is the capital of the Netherlands (seat of government is The Hague)?,460,110,Fail,429
+d2ba4591-ec50-4a2c-92b3-1e72ea59d6a9,01-10-2025 14:30,Research & Latest Topics,What is the chemical element with the symbol Fe?,461,61724,Fail,429
+fdd47a33-c310-4c95-998e-a2a42b7d46a7,01-10-2025 14:31,Research & Latest Topics,Who first proposed that the Earth revolves around the sun?  Export to Sheets,456,35855,Fail,429
