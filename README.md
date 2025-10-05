@@ -104,7 +104,6 @@ streamlit run src/app.py
 * For large PDFs, the text is automatically trimmed to 3000 tokens.
 * The app is optimized for **Streamlit Cloud**, but can be run locally.
 
----
+## Live Demo
 
----
-
+You can try BrainyBot online at: [Streamlit Cloud Demo]https://chatbot-fast-latest-kfrragiftxcf2bw5njzvzp.streamlit.app/
