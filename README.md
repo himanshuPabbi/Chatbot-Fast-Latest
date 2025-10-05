@@ -1,7 +1,3 @@
-Here’s a **ready-to-use `README.md`** tailored for your BrainyBot Streamlit app. You can copy-paste this into your GitHub repo:
-
----
-
 # BrainyBot: Multi-Agent Chatbot for PDFs, Math, and Research
 
 ## Overview
