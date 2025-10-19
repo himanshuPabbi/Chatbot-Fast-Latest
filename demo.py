@@ -8,7 +8,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 # LangChain imports
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitters import RecursiveCharacterTextSplitter
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.chains import RetrievalQA
@@ -227,3 +227,4 @@ st.markdown("---")
 if st.button("Clear App"):
     st.session_state.clear()
     st.experimental_rerun()
+
